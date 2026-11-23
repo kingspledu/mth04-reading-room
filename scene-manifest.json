@@ -1603,5 +1603,249 @@
     "width": 374,
     "height": 250,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0097",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0134",
+    "source_paragraph_ids": [
+      "p0134"
+    ],
+    "description": "“Hurry!” Annie called back to him.",
+    "alt": "“Hurry!” Annie called back to him.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0097.webp",
+    "width": 377,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0098",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0135",
+    "source_paragraph_ids": [
+      "p0135"
+    ],
+    "description": "Jack went down on his knees. He felt for his glasses. Where were they?",
+    "alt": "Jack went down on his knees. He felt for his glasses. Where were they?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0098.webp",
+    "width": 369,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0099",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0136",
+    "source_paragraph_ids": [
+      "p0136"
+    ],
+    "description": "Jack saw something glinting in the sand. He reached for it. It was his glasses. He snatched them up.",
+    "alt": "Jack saw something glinting in the sand. He reached for it. It was his glasses. He snatched them up.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0099.webp",
+    "width": 368,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0100",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0137",
+    "source_paragraph_ids": [
+      "p0137"
+    ],
+    "description": "Then he threw his notebook and pencil into his pack. He put the pack on his back.",
+    "alt": "Then he threw his notebook and pencil into his pack. He put the pack on his back.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0100.webp",
+    "width": 376,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0101",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0138",
+    "source_paragraph_ids": [
+      "p0138"
+    ],
+    "description": "He grabbed his boots and his socks. And he took off running.",
+    "alt": "He grabbed his boots and his socks. And he took off running.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0101.webp",
+    "width": 377,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0102",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0139",
+    "source_paragraph_ids": [
+      "p0139"
+    ],
+    "description": "“Hurry! They’re coming!” Annie was at the top of the rope ladder.",
+    "alt": "“Hurry! They’re coming!” Annie was at the top of the rope ladder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0102.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0103",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0140",
+    "source_paragraph_ids": [
+      "p0140"
+    ],
+    "description": "Jack looked back at the sea. The pirates were closer to the shore.",
+    "alt": "Jack looked back at the sea. The pirates were closer to the shore.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0103.webp",
+    "width": 368,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0104",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0141",
+    "source_paragraph_ids": [
+      "p0141"
+    ],
+    "description": "Suddenly Jack saw the pirate book. In all the confusion he had forgotten it. It was still propped in the sand.",
+    "alt": "Suddenly Jack saw the pirate book. In all the confusion he had forgotten it. It was still propped in the sand.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0104.webp",
+    "width": 376,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0105",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0142",
+    "source_paragraph_ids": [
+      "p0142"
+    ],
+    "description": "“Oh man, I forgot the book!” he said. He dropped his socks and boots below the tree house.",
+    "alt": "“Oh man, I forgot the book!” he said. He dropped his socks and boots below the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0105.webp",
+    "width": 377,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0106",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0143",
+    "source_paragraph_ids": [
+      "p0143"
+    ],
+    "description": "“Come on, Jack!” Annie shouted.",
+    "alt": "“Come on, Jack!” Annie shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0106.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0107",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0144",
+    "source_paragraph_ids": [
+      "p0144"
+    ],
+    "description": "“I’ll be right back!” Jack called. “I’ve got to get the book!”",
+    "alt": "“I’ll be right back!” Jack called. “I’ve got to get the book!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0107.webp",
+    "width": 368,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0108",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0146",
+    "source_paragraph_ids": [
+      "p0145",
+      "p0146"
+    ],
+    "description": "“Jack, forget it!” But Jack was already running toward the water.",
+    "alt": "“Jack, forget it!” But Jack was already running toward the water.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0108.webp",
+    "width": 376,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0109",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0148",
+    "source_paragraph_ids": [
+      "p0147",
+      "p0148"
+    ],
+    "description": "Jack grabbed the book. “Come back!” Annie shouted.",
+    "alt": "Jack grabbed the book. “Come back!” Annie shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0109.webp",
+    "width": 377,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0110",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0150",
+    "source_paragraph_ids": [
+      "p0149",
+      "p0150"
+    ],
+    "description": "Jack shoved the book into his backpack. Suddenly a giant wave carried the rowboat right onto the beach.",
+    "alt": "Jack shoved the book into his backpack. Suddenly a giant wave carried the rowboat right onto the beach.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0110.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0111",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0151",
+    "source_paragraph_ids": [
+      "p0151"
+    ],
+    "description": "“Run, Jack!” shouted Annie.",
+    "alt": "“Run, Jack!” shouted Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0111.webp",
+    "width": 368,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0112",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0153",
+    "source_paragraph_ids": [
+      "p0152",
+      "p0153"
+    ],
+    "description": "Three big pirates splashed onto the sand. They had knives in their teeth.",
+    "alt": "Three big pirates splashed onto the sand. They had knives in their teeth.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0112.webp",
+    "width": 376,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
