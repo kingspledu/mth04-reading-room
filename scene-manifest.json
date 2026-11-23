@@ -2334,5 +2334,249 @@
     "width": 306,
     "height": 314,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0145",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0193",
+    "source_paragraph_ids": [
+      "p0193"
+    ],
+    "description": "“Gold! Gold! Gold!” he cried. Cap’n Bones threw back his head and laughed horribly.",
+    "alt": "“Gold! Gold! Gold!” he cried. Cap’n Bones threw back his head and laughed horribly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0145.webp",
+    "width": 309,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0146",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0194",
+    "source_paragraph_ids": [
+      "p0194"
+    ],
+    "description": "He grabbed two of his pistols. He shot them into the air. Pinky and Stinky howled like wolves.",
+    "alt": "He grabbed two of his pistols. He shot them into the air. Pinky and Stinky howled like wolves.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0146.webp",
+    "width": 301,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0147",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0196",
+    "source_paragraph_ids": [
+      "p0195",
+      "p0196"
+    ],
+    "description": "Jack and Annie watched in horror. The gold-greedy pirates seemed to have lost their minds.",
+    "alt": "Jack and Annie watched in horror. The gold-greedy pirates seemed to have lost their minds.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0147.webp",
+    "width": 301,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0148",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0197",
+    "source_paragraph_ids": [
+      "p0197"
+    ],
+    "description": "Jack nudged Annie. Together they started to back slowly away from the pirates. Toward the tree house.",
+    "alt": "Jack nudged Annie. Together they started to back slowly away from the pirates. Toward the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0148.webp",
+    "width": 308,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0149",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0198",
+    "source_paragraph_ids": [
+      "p0198"
+    ],
+    "description": "“Halt!” Cap’n Bones shouted. He aimed his pistols at them. “Not another step, lubbers!”",
+    "alt": "“Halt!” Cap’n Bones shouted. He aimed his pistols at them. “Not another step, lubbers!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0149.webp",
+    "width": 309,
+    "height": 299,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0150",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0200",
+    "source_paragraph_ids": [
+      "p0199",
+      "p0200"
+    ],
+    "description": "Jack and Annie froze. Cap’n Bones grinned his black-toothed grin. “Tell old Bones where the rest is,” he growled. “Or prepare to meet thy doom.”",
+    "alt": "Jack and Annie froze. Cap’n Bones grinned his black-toothed grin. “Tell old Bones where the rest is,” he growled. “Or prepare to meet thy doom.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0150.webp",
+    "width": 301,
+    "height": 299,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0151",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0201",
+    "source_paragraph_ids": [
+      "p0201"
+    ],
+    "description": "“What—what rest?” said Annie.",
+    "alt": "“What—what rest?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0151.webp",
+    "width": 301,
+    "height": 299,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0152",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0202",
+    "source_paragraph_ids": [
+      "p0202"
+    ],
+    "description": "“The rest of the treasure!” roared Cap’n Bones. “I know it’s on this island. I have a map!”",
+    "alt": "“The rest of the treasure!” roared Cap’n Bones. “I know it’s on this island. I have a map!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0152.webp",
+    "width": 308,
+    "height": 299,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0153",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0203",
+    "source_paragraph_ids": [
+      "p0203"
+    ],
+    "description": "He reached into a belt pouch and pulled out a torn piece of paper. He waved it at Jack and Annie.",
+    "alt": "He reached into a belt pouch and pulled out a torn piece of paper. He waved it at Jack and Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0153.webp",
+    "width": 309,
+    "height": 289,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0154",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0204",
+    "source_paragraph_ids": [
+      "p0204"
+    ],
+    "description": "“Is that a treasure map?” asked Jack.",
+    "alt": "“Is that a treasure map?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0154.webp",
+    "width": 301,
+    "height": 289,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0155",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0206",
+    "source_paragraph_ids": [
+      "p0205",
+      "p0206"
+    ],
+    "description": "“Aye, it’s the map telling about Kidd’s treasure.” “Which kid’s treasure? Not us kids,” said Annie. “We don’t know anything about a kid’s treasure.”",
+    "alt": "“Aye, it’s the map telling about Kidd’s treasure.” “Which kid’s treasure? Not us kids,” said Annie. “We don’t know anything about a kid’s treasure.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0155.webp",
+    "width": 301,
+    "height": 289,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0156",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0207",
+    "source_paragraph_ids": [
+      "p0207"
+    ],
+    "description": "“Why don’t you read the map?” said Jack.",
+    "alt": "“Why don’t you read the map?” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0156.webp",
+    "width": 308,
+    "height": 289,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0157",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0208",
+    "source_paragraph_ids": [
+      "p0208"
+    ],
+    "description": "“You read it!” Cap’n Bones shoved the map in Jack’s face.",
+    "alt": "“You read it!” Cap’n Bones shoved the map in Jack’s face.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0157.webp",
+    "width": 309,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0158",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0210",
+    "source_paragraph_ids": [
+      "p0209",
+      "p0210"
+    ],
+    "description": "Jack stared at the strange marks on the paper. “What does that mean?” asked Jack.",
+    "alt": "Jack stared at the strange marks on the paper. “What does that mean?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0158.webp",
+    "width": 301,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0159",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0211",
+    "source_paragraph_ids": [
+      "p0211"
+    ],
+    "description": "“What does what mean?” asked Cap’n Bones.",
+    "alt": "“What does what mean?” asked Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0159.webp",
+    "width": 301,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0160",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0212",
+    "source_paragraph_ids": [
+      "p0212"
+    ],
+    "description": "“Those words.” Jack pointed at the words at the bottom of the map.",
+    "alt": "“Those words.” Jack pointed at the words at the bottom of the map.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0160.webp",
+    "width": 308,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
