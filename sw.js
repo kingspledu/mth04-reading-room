@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-mth04-reading-room-';
-const CACHE=PREFIX+'5ad0f34cb2a5';
+const CACHE=PREFIX+'373d88b10c5f';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./part-01-01.html','./part-01-02.html','./part-02-01.html','./part-03-01.html','./part-04-01.html','./part-05-01.html','./part-06-01.html','./part-07-01.html','./part-08-01.html','./part-08-02.html','./part-09-01.html','./part-10-01.html','./part-10-02.html','./learning.js','./learning.css','./vocabulary.json','./characters.html','./','./style.css?v=0ae04e79ec66','./app.js?v=0ae04e79ec66','./pwa.js?v=0ae04e79ec66','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./part-01-01.html','./part-01-02.html','./part-02-01.html','./part-03-01.html','./part-04-01.html','./part-05-01.html','./part-06-01.html','./part-07-01.html','./part-08-01.html','./part-08-02.html','./part-09-01.html','./part-10-01.html','./part-10-02.html','./learning.js','./learning.css','./vocabulary.json','./characters.html','./','./style.css?v=3d97ec48bbee','./app.js?v=3d97ec48bbee','./pwa.js?v=3d97ec48bbee','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{

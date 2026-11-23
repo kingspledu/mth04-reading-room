@@ -2091,5 +2091,248 @@
     "width": 375,
     "height": 250,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0129",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0174",
+    "source_paragraph_ids": [
+      "p0174"
+    ],
+    "description": "“What do you spy, Pinky?” shouted Cap’n Bones.",
+    "alt": "“What do you spy, Pinky?” shouted Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0129.webp",
+    "width": 307,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0130",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0175",
+    "source_paragraph_ids": [
+      "p0175"
+    ],
+    "description": "“Books, Cap’n!” Pinky shouted down.",
+    "alt": "“Books, Cap’n!” Pinky shouted down.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0130.webp",
+    "width": 300,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0131",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0176",
+    "source_paragraph_ids": [
+      "p0176"
+    ],
+    "description": "“Aghh, books,” growled Cap’n Bones. He spit on the sand. “I want gold, you dogs!”",
+    "alt": "“Aghh, books,” growled Cap’n Bones. He spit on the sand. “I want gold, you dogs!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0131.webp",
+    "width": 299,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0132",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0178",
+    "source_paragraph_ids": [
+      "p0177",
+      "p0178"
+    ],
+    "description": "“Dogs are nicer than you,” said Annie. “Shhh,” said Jack.",
+    "alt": "“Dogs are nicer than you,” said Annie. “Shhh,” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0132.webp",
+    "width": 306,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0133",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0179",
+    "source_paragraph_ids": [
+      "p0179"
+    ],
+    "description": "“What about you, Stinky?” Cap’n Bones roared.",
+    "alt": "“What about you, Stinky?” Cap’n Bones roared.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0133.webp",
+    "width": 307,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0134",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0180",
+    "source_paragraph_ids": [
+      "p0180"
+    ],
+    "description": "“Just books, Cap’n!” shouted Stinky.",
+    "alt": "“Just books, Cap’n!” shouted Stinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0134.webp",
+    "width": 300,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0135",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0181",
+    "source_paragraph_ids": [
+      "p0181"
+    ],
+    "description": "“Aghh, books,” said Cap’n Bones. He spit on the sand again. “I hate books! Keep looking, dogs! Find me something good!”",
+    "alt": "“Aghh, books,” said Cap’n Bones. He spit on the sand again. “I hate books! Keep looking, dogs! Find me something good!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0135.webp",
+    "width": 299,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0136",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0182",
+    "source_paragraph_ids": [
+      "p0182"
+    ],
+    "description": "Cap’n Bones grabbed Jack’s backpack. “What’s in here?” he said.",
+    "alt": "Cap’n Bones grabbed Jack’s backpack. “What’s in here?” he said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0136.webp",
+    "width": 306,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0137",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0183",
+    "source_paragraph_ids": [
+      "p0183"
+    ],
+    "description": "“Nothing—” Jack quickly opened the pack. “Just paper, a pencil, a book.”",
+    "alt": "“Nothing—” Jack quickly opened the pack. “Just paper, a pencil, a book.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0137.webp",
+    "width": 307,
+    "height": 296,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0138",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0184",
+    "source_paragraph_ids": [
+      "p0184"
+    ],
+    "description": "“Another book!” roared Cap’n Bones. “That’s vile booty!”",
+    "alt": "“Another book!” roared Cap’n Bones. “That’s vile booty!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0138.webp",
+    "width": 300,
+    "height": 296,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0139",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0186",
+    "source_paragraph_ids": [
+      "p0185",
+      "p0186"
+    ],
+    "description": "A gleeful shriek pierced the air. Cap’n Bones froze. “What’s that?” he shouted.",
+    "alt": "A gleeful shriek pierced the air. Cap’n Bones froze. “What’s that?” he shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0139.webp",
+    "width": 299,
+    "height": 296,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0140",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0187",
+    "source_paragraph_ids": [
+      "p0187"
+    ],
+    "description": "“Look, Cap’n! Look!”",
+    "alt": "“Look, Cap’n! Look!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0140.webp",
+    "width": 306,
+    "height": 296,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0141",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0188",
+    "source_paragraph_ids": [
+      "p0188"
+    ],
+    "description": "Pinky leaned out the tree house window. He held the medallion. It glimmered in the sunlight.",
+    "alt": "Pinky leaned out the tree house window. He held the medallion. It glimmered in the sunlight.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0141.webp",
+    "width": 307,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0142",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0190",
+    "source_paragraph_ids": [
+      "p0189",
+      "p0190"
+    ],
+    "description": "Oh brother, thought Jack. “Throw it down!” cried Cap’n Bones.",
+    "alt": "Oh brother, thought Jack. “Throw it down!” cried Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0142.webp",
+    "width": 300,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0143",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0191",
+    "source_paragraph_ids": [
+      "p0191"
+    ],
+    "description": "“It’s not yours!” shouted Annie.",
+    "alt": "“It’s not yours!” shouted Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0143.webp",
+    "width": 299,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0144",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0192",
+    "source_paragraph_ids": [
+      "p0192"
+    ],
+    "description": "Cap’n Bones dropped Jack and Annie. He caught the medallion as it fell.",
+    "alt": "Cap’n Bones dropped Jack and Annie. He caught the medallion as it fell.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0144.webp",
+    "width": 306,
+    "height": 314,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
