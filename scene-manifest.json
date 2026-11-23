@@ -868,5 +868,249 @@
     "width": 377,
     "height": 250,
     "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0049",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0072",
+    "source_paragraph_ids": [
+      "p0071",
+      "p0072"
+    ],
+    "description": "The wind blew harder. The leaves shook.",
+    "alt": "The wind blew harder. The leaves shook.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0049.webp",
+    "width": 377,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0050",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0073",
+    "source_paragraph_ids": [
+      "p0073"
+    ],
+    "description": "The tree house started to spin. Faster and faster!",
+    "alt": "The tree house started to spin. Faster and faster!",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0050.webp",
+    "width": 369,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0051",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0074",
+    "source_paragraph_ids": [
+      "p0074"
+    ],
+    "description": "Jack squeezed his eyes shut. Then everything was still.",
+    "alt": "Jack squeezed his eyes shut. Then everything was still.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0051.webp",
+    "width": 369,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0052",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0076",
+    "source_paragraph_ids": [
+      "p0075",
+      "p0076"
+    ],
+    "description": "Absolutely still. Jack opened his eyes.",
+    "alt": "Absolutely still. Jack opened his eyes.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0052.webp",
+    "width": 375,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0053",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0077",
+    "source_paragraph_ids": [
+      "p0077"
+    ],
+    "description": "“Too late!” squawked Polly.",
+    "alt": "“Too late!” squawked Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0053.webp",
+    "width": 377,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0054",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0079",
+    "source_paragraph_ids": [
+      "p0078",
+      "p0079"
+    ],
+    "description": "Jack felt hot sunlight streaming into the tree house. He smelled saltwater.",
+    "alt": "Jack felt hot sunlight streaming into the tree house. He smelled saltwater.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0054.webp",
+    "width": 369,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0055",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0081",
+    "source_paragraph_ids": [
+      "p0080",
+      "p0081"
+    ],
+    "description": "He heard the sound of waves. He and Annie looked out the window.",
+    "alt": "He heard the sound of waves. He and Annie looked out the window.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0055.webp",
+    "width": 369,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0056",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0082",
+    "source_paragraph_ids": [
+      "p0082"
+    ],
+    "description": "The tree house was in a palm tree. Beyond was a bright blue sea. A tall sailing ship was on the horizon. It was just like the picture in the book.",
+    "alt": "The tree house was in a palm tree. Beyond was a bright blue sea. A tall sailing ship was on the horizon. It was just like the picture in the book.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0056.webp",
+    "width": 375,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0057",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0083",
+    "source_paragraph_ids": [
+      "p0083"
+    ],
+    "description": "“Too late!” squawked Polly.",
+    "alt": "“Too late!” squawked Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0057.webp",
+    "width": 377,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0058",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0084",
+    "source_paragraph_ids": [
+      "p0084"
+    ],
+    "description": "“Look!” said Annie.",
+    "alt": "“Look!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0058.webp",
+    "width": 369,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0059",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0085",
+    "source_paragraph_ids": [
+      "p0085"
+    ],
+    "description": "Polly was flying in circles above the tree house. Then she swooped down to the ocean.",
+    "alt": "Polly was flying in circles above the tree house. Then she swooped down to the ocean.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0059.webp",
+    "width": 369,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0060",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0086",
+    "source_paragraph_ids": [
+      "p0086"
+    ],
+    "description": "“Come on, let’s follow her! Let’s go in the water!” said Annie. She took off her raincoat and dropped it on the floor.",
+    "alt": "“Come on, let’s follow her! Let’s go in the water!” said Annie. She took off her raincoat and dropped it on the floor.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0060.webp",
+    "width": 375,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0061",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "“Wait, we have to study the book first,” said Jack. He started to reach for the book. But Annie grabbed it.",
+    "alt": "“Wait, we have to study the book first,” said Jack. He started to reach for the book. But Annie grabbed it.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0061.webp",
+    "width": 377,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0062",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0088",
+    "source_paragraph_ids": [
+      "p0088"
+    ],
+    "description": "“You can read it on the beach,” she said. Without even looking at the cover, she shoved the book into Jack’s backpack.",
+    "alt": "“You can read it on the beach,” she said. Without even looking at the cover, she shoved the book into Jack’s backpack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0062.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0063",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0089",
+    "source_paragraph_ids": [
+      "p0089"
+    ],
+    "description": "He sighed. Actually, the water did look wonderful.",
+    "alt": "He sighed. Actually, the water did look wonderful.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0063.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0064",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "“Okay,” Jack said. He took off his raincoat, too.",
+    "alt": "“Okay,” Jack said. He took off his raincoat, too.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0064.webp",
+    "width": 375,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
