@@ -1847,5 +1847,249 @@
     "width": 376,
     "height": 250,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0113",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0155",
+    "source_paragraph_ids": [
+      "p0154",
+      "p0155"
+    ],
+    "description": "They had pistols in their belts. They charged toward Jack.",
+    "alt": "They had pistols in their belts. They charged toward Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0113.webp",
+    "width": 378,
+    "height": 251,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0114",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0156",
+    "source_paragraph_ids": [
+      "p0156"
+    ],
+    "description": "“Run, Jack, run!” cried Annie.",
+    "alt": "“Run, Jack, run!” cried Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0114.webp",
+    "width": 370,
+    "height": 251,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0115",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0157",
+    "source_paragraph_ids": [
+      "p0157"
+    ],
+    "description": "Jack started to run across the hot sand. He ran as fast as he could.",
+    "alt": "Jack started to run across the hot sand. He ran as fast as he could.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0115.webp",
+    "width": 371,
+    "height": 251,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0116",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0159",
+    "source_paragraph_ids": [
+      "p0158",
+      "p0159"
+    ],
+    "description": "But the pirates ran faster. Before Jack knew it, the biggest pirate had grabbed him!",
+    "alt": "But the pirates ran faster. Before Jack knew it, the biggest pirate had grabbed him!",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0116.webp",
+    "width": 375,
+    "height": 251,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0117",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0160",
+    "source_paragraph_ids": [
+      "p0160"
+    ],
+    "description": "Jack struggled. But the pirate had huge, strong arms. He held on to Jack and laughed a mean, ugly laugh. He had a shaggy black beard. A patch covered one eye.",
+    "alt": "Jack struggled. But the pirate had huge, strong arms. He held on to Jack and laughed a mean, ugly laugh. He had a shaggy black beard. A patch covered one eye.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0117.webp",
+    "width": 378,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0118",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0161",
+    "source_paragraph_ids": [
+      "p0161"
+    ],
+    "description": "Jack heard Annie yelling. He saw her coming down the rope ladder.",
+    "alt": "Jack heard Annie yelling. He saw her coming down the rope ladder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0118.webp",
+    "width": 370,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0119",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0162",
+    "source_paragraph_ids": [
+      "p0162"
+    ],
+    "description": "“Stay where you are!” Jack shouted.",
+    "alt": "“Stay where you are!” Jack shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0119.webp",
+    "width": 371,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0120",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0163",
+    "source_paragraph_ids": [
+      "p0163"
+    ],
+    "description": "But Annie kept coming. “Leave him alone, you bully!” she cried.",
+    "alt": "But Annie kept coming. “Leave him alone, you bully!” she cried.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0120.webp",
+    "width": 375,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0121",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0164",
+    "source_paragraph_ids": [
+      "p0164"
+    ],
+    "description": "The other two pirates laughed meanly. They were dirty and ragged.",
+    "alt": "The other two pirates laughed meanly. They were dirty and ragged.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0121.webp",
+    "width": 378,
+    "height": 245,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0122",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0165",
+    "source_paragraph_ids": [
+      "p0165"
+    ],
+    "description": "Annie charged up to the biggest pirate. “Let him go!” she said. She hit the pirate with her fist and kicked him.",
+    "alt": "Annie charged up to the biggest pirate. “Let him go!” she said. She hit the pirate with her fist and kicked him.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0122.webp",
+    "width": 370,
+    "height": 245,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0123",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0166",
+    "source_paragraph_ids": [
+      "p0166"
+    ],
+    "description": "But the pirate just growled. Then he grabbed her, too. And with his giant hands, he held Jack and Annie as if they were two kittens.",
+    "alt": "But the pirate just growled. Then he grabbed her, too. And with his giant hands, he held Jack and Annie as if they were two kittens.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0123.webp",
+    "width": 371,
+    "height": 245,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0124",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0167",
+    "source_paragraph_ids": [
+      "p0167"
+    ],
+    "description": "“No one escapes Cap’n Bones!” he roared. His breath was terrible.",
+    "alt": "“No one escapes Cap’n Bones!” he roared. His breath was terrible.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0124.webp",
+    "width": 375,
+    "height": 245,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0125",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0168",
+    "source_paragraph_ids": [
+      "p0168"
+    ],
+    "description": "“Let go!” Annie shouted into his face.",
+    "alt": "“Let go!” Annie shouted into his face.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0125.webp",
+    "width": 378,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0126",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0169",
+    "source_paragraph_ids": [
+      "p0169"
+    ],
+    "description": "But Cap’n Bones just smiled. All his teeth were black.",
+    "alt": "But Cap’n Bones just smiled. All his teeth were black.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0126.webp",
+    "width": 370,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0127",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0171",
+    "source_paragraph_ids": [
+      "p0170",
+      "p0171"
+    ],
+    "description": "Annie fell silent. Cap’n Bones laughed loudly. Then he turned to the other two.",
+    "alt": "Annie fell silent. Cap’n Bones laughed loudly. Then he turned to the other two.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0127.webp",
+    "width": 371,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0128",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0173",
+    "source_paragraph_ids": [
+      "p0172",
+      "p0173"
+    ],
+    "description": "“Find out what’s in their house, you dogs,” he said. “Aye, aye, Cap’n!” they answered. And they started up the ladder to the tree house.",
+    "alt": "“Find out what’s in their house, you dogs,” he said. “Aye, aye, Cap’n!” they answered. And they started up the ladder to the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0128.webp",
+    "width": 375,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
