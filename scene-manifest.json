@@ -4536,5 +4536,249 @@
     "width": 307,
     "height": 304,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0289",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0379",
+    "source_paragraph_ids": [
+      "p0379"
+    ],
+    "description": "“Go back, Jack,” she said. She sounded like a person.",
+    "alt": "“Go back, Jack,” she said. She sounded like a person.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0289.webp",
+    "width": 307,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0290",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0380",
+    "source_paragraph_ids": [
+      "p0380"
+    ],
+    "description": "Okay. It was definitely time to go.",
+    "alt": "Okay. It was definitely time to go.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0290.webp",
+    "width": 303,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0291",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0381",
+    "source_paragraph_ids": [
+      "p0381"
+    ],
+    "description": "Jack took one last look at the treasure chest. He clutched the gold medallion. Then he took off, running toward the tree house.",
+    "alt": "Jack took one last look at the treasure chest. He clutched the gold medallion. Then he took off, running toward the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0291.webp",
+    "width": 302,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0292",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0382",
+    "source_paragraph_ids": [
+      "p0382"
+    ],
+    "description": "His socks and rain boots were still there. He quickly pulled the boots on. He shoved the socks into his backpack.",
+    "alt": "His socks and rain boots were still there. He quickly pulled the boots on. He shoved the socks into his backpack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0292.webp",
+    "width": 307,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0293",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0383",
+    "source_paragraph_ids": [
+      "p0383"
+    ],
+    "description": "The rope ladder was dancing wildly in the wind. Jack grabbed it.",
+    "alt": "The rope ladder was dancing wildly in the wind. Jack grabbed it.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0293.webp",
+    "width": 307,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0294",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0384",
+    "source_paragraph_ids": [
+      "p0384"
+    ],
+    "description": "The ladder swayed as Jack climbed. He was tossed this way and that. But he held on tight.",
+    "alt": "The ladder swayed as Jack climbed. He was tossed this way and that. But he held on tight.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0294.webp",
+    "width": 303,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0295",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0386",
+    "source_paragraph_ids": [
+      "p0385",
+      "p0386"
+    ],
+    "description": "At last he pulled himself into the tree house. “Let’s go!” he cried.",
+    "alt": "At last he pulled himself into the tree house. “Let’s go!” he cried.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0295.webp",
+    "width": 302,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0296",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0387",
+    "source_paragraph_ids": [
+      "p0387"
+    ],
+    "description": "Annie was already holding the Pennsylvania book. She pointed to the picture of Frog Creek.",
+    "alt": "Annie was already holding the Pennsylvania book. She pointed to the picture of Frog Creek.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0296.webp",
+    "width": 307,
+    "height": 298,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0297",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0388",
+    "source_paragraph_ids": [
+      "p0388"
+    ],
+    "description": "“I wish we could go there!” she shouted.",
+    "alt": "“I wish we could go there!” she shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0297.webp",
+    "width": 307,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0298",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0389",
+    "source_paragraph_ids": [
+      "p0389"
+    ],
+    "description": "The wind was already blowing hard. But now it blew even harder.",
+    "alt": "The wind was already blowing hard. But now it blew even harder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0298.webp",
+    "width": 302,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0299",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0390",
+    "source_paragraph_ids": [
+      "p0390"
+    ],
+    "description": "The tree house started to spin. It spun faster and faster.",
+    "alt": "The tree house started to spin. It spun faster and faster.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0299.webp",
+    "width": 302,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0300",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0392",
+    "source_paragraph_ids": [
+      "p0391",
+      "p0392"
+    ],
+    "description": "Then everything was still. Absolutely still.",
+    "alt": "Then everything was still. Absolutely still.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0300.webp",
+    "width": 306,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0301",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0394",
+    "source_paragraph_ids": [
+      "p0393",
+      "p0394"
+    ],
+    "description": "Drip, drip. Jack opened his eyes.",
+    "alt": "Drip, drip. Jack opened his eyes.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0301.webp",
+    "width": 307,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0302",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0396",
+    "source_paragraph_ids": [
+      "p0395",
+      "p0396"
+    ],
+    "description": "Rain was dripping from the leaves of the tree. They were back in Frog Creek. The rain was softer. The wind was gentler. The air was sweeter.",
+    "alt": "Rain was dripping from the leaves of the tree. They were back in Frog Creek. The rain was softer. The wind was gentler. The air was sweeter.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0302.webp",
+    "width": 301,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0303",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0397",
+    "source_paragraph_ids": [
+      "p0397"
+    ],
+    "description": "“Oh man.” Jack sighed. “That was close.” He was still holding the gold medallion.",
+    "alt": "“Oh man.” Jack sighed. “That was close.” He was still holding the gold medallion.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0303.webp",
+    "width": 302,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0304",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0398",
+    "source_paragraph_ids": [
+      "p0398"
+    ],
+    "description": "“Polly’s gone,” said Annie sadly. “I was hoping she might come back with us.”",
+    "alt": "“Polly’s gone,” said Annie sadly. “I was hoping she might come back with us.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0304.webp",
+    "width": 307,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
