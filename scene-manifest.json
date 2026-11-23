@@ -5761,5 +5761,99 @@
     "width": 374,
     "height": 250,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0369",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0485",
+    "source_paragraph_ids": [
+      "p0484",
+      "p0485"
+    ],
+    "description": "“But how?” “Magic,” said Annie. “I think it means she’ll be coming back.”",
+    "alt": "“But how?” “Magic,” said Annie. “I think it means she’ll be coming back.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0369.webp",
+    "width": 374,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0370",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0486",
+    "source_paragraph_ids": [
+      "p0486"
+    ],
+    "description": "Jack smiled. He clutched the medallion as he and Annie took off through the wet, sunny woods.",
+    "alt": "Jack smiled. He clutched the medallion as he and Annie took off through the wet, sunny woods.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0370.webp",
+    "width": 368,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0371",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0487",
+    "source_paragraph_ids": [
+      "p0487"
+    ],
+    "description": "As they walked, the sun shined through the woods. And all the wet leaves sparkled.",
+    "alt": "As they walked, the sun shined through the woods. And all the wet leaves sparkled.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0371.webp",
+    "width": 368,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0372",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0489",
+    "source_paragraph_ids": [
+      "p0488",
+      "p0489"
+    ],
+    "description": "Everything, in fact, was shining. Leaves, branches, puddles, bushes, grass, vines, wild flowers—all glittered like jewels.",
+    "alt": "Everything, in fact, was shining. Leaves, branches, puddles, bushes, grass, vines, wild flowers—all glittered like jewels.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0372.webp",
+    "width": 374,
+    "height": 247,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0373",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0491",
+    "source_paragraph_ids": [
+      "p0490",
+      "p0491"
+    ],
+    "description": "Or gleamed like gold. Annie had been right, thought Jack.",
+    "alt": "Or gleamed like gold. Annie had been right, thought Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0373.webp",
+    "width": 374,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0374",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0493",
+    "source_paragraph_ids": [
+      "p0492",
+      "p0493"
+    ],
+    "description": "Forget the treasure chest. They had treasure at home. A ton of it. Everywhere.",
+    "alt": "Forget the treasure chest. They had treasure at home. A ton of it. Everywhere.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0374.webp",
+    "width": 368,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
