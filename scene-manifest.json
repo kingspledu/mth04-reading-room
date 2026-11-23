@@ -1355,5 +1355,253 @@
     "width": 375,
     "height": 248,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0081",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0110",
+    "source_paragraph_ids": [
+      "p0110"
+    ],
+    "description": "“Pirates of the Caribbean,” Jack read aloud.",
+    "alt": "“Pirates of the Caribbean,” Jack read aloud.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0081.webp",
+    "width": 377,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0082",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0111",
+    "source_paragraph_ids": [
+      "p0111"
+    ],
+    "description": "“We’ve come to the time of pirates!” Jack said.",
+    "alt": "“We’ve come to the time of pirates!” Jack said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0082.webp",
+    "width": 371,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0083",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0112",
+    "source_paragraph_ids": [
+      "p0112"
+    ],
+    "description": "“Pirates?” squeaked Annie. “Like in Peter Pan?”",
+    "alt": "“Pirates?” squeaked Annie. “Like in Peter Pan?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0083.webp",
+    "width": 369,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0084",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0115",
+    "source_paragraph_ids": [
+      "p0113",
+      "p0114",
+      "p0115"
+    ],
+    "description": "Jack flipped to the picture that showed the parrot, the sea and the ship. He read the caption under the picture: Three hundred years ago, pirates raided Spanish treasure ships in the Caribbean Sea.",
+    "alt": "Jack flipped to the picture that showed the parrot, the sea and the ship. He read the caption under the picture: Three hundred years ago, pirates raided Spanish treasure ships in the Caribbean Sea.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0084.webp",
+    "width": 374,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0085",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0118",
+    "source_paragraph_ids": [
+      "p0116",
+      "p0117",
+      "p0118"
+    ],
+    "description": "He grabbed his notebook and pencil from his pack. He wrote: pirates in the Caribbean He turned to the next page. There was a picture of a pirate flag. He read:",
+    "alt": "He grabbed his notebook and pencil from his pack. He wrote: pirates in the Caribbean He turned to the next page. There was a picture of a pirate flag. He read:",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0085.webp",
+    "width": 377,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0086",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0120",
+    "source_paragraph_ids": [
+      "p0119",
+      "p0120"
+    ],
+    "description": "The skull-and-crossbones flag was called the Jolly Roger. “Let’s go!” said Annie.",
+    "alt": "The skull-and-crossbones flag was called the Jolly Roger. “Let’s go!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0086.webp",
+    "width": 371,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0087",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0121",
+    "source_paragraph_ids": [
+      "p0121"
+    ],
+    "description": "“Wait!” said Jack. “I want to make a drawing of the flag.”",
+    "alt": "“Wait!” said Jack. “I want to make a drawing of the flag.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0087.webp",
+    "width": 369,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0088",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0123",
+    "source_paragraph_ids": [
+      "p0122",
+      "p0123"
+    ],
+    "description": "He propped the pirate book in the sand. He started drawing the Jolly Roger flag.",
+    "alt": "He propped the pirate book in the sand. He started drawing the Jolly Roger flag.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0088.webp",
+    "width": 374,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0089",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0124",
+    "source_paragraph_ids": [
+      "p0124"
+    ],
+    "description": "“Don’t copy the picture in the book,” said Annie. “Look at the real thing.”",
+    "alt": "“Don’t copy the picture in the book,” said Annie. “Look at the real thing.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0089.webp",
+    "width": 377,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0090",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0126",
+    "source_paragraph_ids": [
+      "p0125",
+      "p0126"
+    ],
+    "description": "But Jack pushed his glasses into place and kept drawing. “Jack, some pirates are getting into a rowboat,” said Annie.",
+    "alt": "But Jack pushed his glasses into place and kept drawing. “Jack, some pirates are getting into a rowboat,” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0090.webp",
+    "width": 371,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0091",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0128",
+    "source_paragraph_ids": [
+      "p0127",
+      "p0128"
+    ],
+    "description": "Jack kept drawing. “Jack, the boat’s leaving the big ship,” said Annie.",
+    "alt": "Jack kept drawing. “Jack, the boat’s leaving the big ship,” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0091.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0092",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0129",
+    "source_paragraph_ids": [
+      "p0129"
+    ],
+    "description": "“What?” Jack looked up.",
+    "alt": "“What?” Jack looked up.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0092.webp",
+    "width": 374,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0093",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0130",
+    "source_paragraph_ids": [
+      "p0130"
+    ],
+    "description": "“Look.” Annie pointed.",
+    "alt": "“Look.” Annie pointed.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0093.webp",
+    "width": 377,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0094",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0131",
+    "source_paragraph_ids": [
+      "p0131"
+    ],
+    "description": "Jack looked. He saw the rowboat coming toward the shore.",
+    "alt": "Jack looked. He saw the rowboat coming toward the shore.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0094.webp",
+    "width": 371,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0095",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0132",
+    "source_paragraph_ids": [
+      "p0132"
+    ],
+    "description": "“Run!” said Annie. She started running toward the tree house.",
+    "alt": "“Run!” said Annie. She started running toward the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0095.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0096",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0133",
+    "source_paragraph_ids": [
+      "p0133"
+    ],
+    "description": "Jack jumped up. His glasses fell off.",
+    "alt": "Jack jumped up. His glasses fell off.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0096.webp",
+    "width": 374,
+    "height": 250,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
