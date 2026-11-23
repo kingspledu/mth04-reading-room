@@ -3809,5 +3809,249 @@
     "width": 408,
     "height": 249,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0241",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0324",
+    "source_paragraph_ids": [
+      "p0324"
+    ],
+    "description": "“They need help!” said Jack.",
+    "alt": "“They need help!” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0241.webp",
+    "width": 299,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0242",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0325",
+    "source_paragraph_ids": [
+      "p0325"
+    ],
+    "description": "“Aghh, let the dogs do the work!” growled Cap’n Bones.",
+    "alt": "“Aghh, let the dogs do the work!” growled Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0242.webp",
+    "width": 309,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0243",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0327",
+    "source_paragraph_ids": [
+      "p0326",
+      "p0327"
+    ],
+    "description": "“You’re not very nice to them,” said Annie. “Who cares?” roared Cap’n Bones.",
+    "alt": "“You’re not very nice to them,” said Annie. “Who cares?” roared Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0243.webp",
+    "width": 288,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0244",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0328",
+    "source_paragraph_ids": [
+      "p0328"
+    ],
+    "description": "“Cap’n! We got it!” shouted Pinky.",
+    "alt": "“Cap’n! We got it!” shouted Pinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0244.webp",
+    "width": 319,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0245",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0330",
+    "source_paragraph_ids": [
+      "p0329",
+      "p0330"
+    ],
+    "description": "They started pulling the rock across the sand. “Now let’s dig where the rock was,” said Jack. “All of us!”",
+    "alt": "They started pulling the rock across the sand. “Now let’s dig where the rock was,” said Jack. “All of us!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0245.webp",
+    "width": 299,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0246",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0332",
+    "source_paragraph_ids": [
+      "p0331",
+      "p0332"
+    ],
+    "description": "But Cap’n Bones ignored his suggestion. “Dig, you dogs!” he shouted.",
+    "alt": "But Cap’n Bones ignored his suggestion. “Dig, you dogs!” he shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0246.webp",
+    "width": 309,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0247",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0333",
+    "source_paragraph_ids": [
+      "p0333"
+    ],
+    "description": "Pinky and Stinky started to dig. The wind blew even harder. There was going to be a thunderstorm.",
+    "alt": "Pinky and Stinky started to dig. The wind blew even harder. There was going to be a thunderstorm.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0247.webp",
+    "width": 299,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0248",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0334",
+    "source_paragraph_ids": [
+      "p0334"
+    ],
+    "description": "“Oww! I got sand in me eyes!” Pinky whined.",
+    "alt": "“Oww! I got sand in me eyes!” Pinky whined.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0248.webp",
+    "width": 309,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0249",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0335",
+    "source_paragraph_ids": [
+      "p0335"
+    ],
+    "description": "“Oww! Me back hurts!” Stinky cried.",
+    "alt": "“Oww! Me back hurts!” Stinky cried.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0249.webp",
+    "width": 308,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0250",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0336",
+    "source_paragraph_ids": [
+      "p0336"
+    ],
+    "description": "“Dig!” shouted Cap’n Bones. He held Jack and Annie with one hand. With the other he pulled out the gold medallion.",
+    "alt": "“Dig!” shouted Cap’n Bones. He held Jack and Annie with one hand. With the other he pulled out the gold medallion.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0250.webp",
+    "width": 300,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0251",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0337",
+    "source_paragraph_ids": [
+      "p0337"
+    ],
+    "description": "He tossed it at the two pirates. It fell into the hole.",
+    "alt": "He tossed it at the two pirates. It fell into the hole.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0251.webp",
+    "width": 297,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0252",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0338",
+    "source_paragraph_ids": [
+      "p0338"
+    ],
+    "description": "“Dig for more of these, you swine!” he said.",
+    "alt": "“Dig for more of these, you swine!” he said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0252.webp",
+    "width": 310,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0253",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0340",
+    "source_paragraph_ids": [
+      "p0339",
+      "p0340"
+    ],
+    "description": "Squawk! “Look!” Annie said.",
+    "alt": "Squawk! “Look!” Annie said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0253.webp",
+    "width": 309,
+    "height": 308,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0254",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0341",
+    "source_paragraph_ids": [
+      "p0341"
+    ],
+    "description": "Polly was back! She was circling above them!",
+    "alt": "Polly was back! She was circling above them!",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0254.webp",
+    "width": 298,
+    "height": 308,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0255",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0342",
+    "source_paragraph_ids": [
+      "p0342"
+    ],
+    "description": "“Go back!” she squawked.",
+    "alt": "“Go back!” she squawked.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0255.webp",
+    "width": 297,
+    "height": 308,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0256",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0343",
+    "source_paragraph_ids": [
+      "p0343"
+    ],
+    "description": "Stinky and Pinky looked up at the parrot. They scowled.",
+    "alt": "Stinky and Pinky looked up at the parrot. They scowled.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0256.webp",
+    "width": 310,
+    "height": 308,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
