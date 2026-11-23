@@ -4053,5 +4053,246 @@
     "width": 310,
     "height": 308,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0257",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0344",
+    "source_paragraph_ids": [
+      "p0344"
+    ],
+    "description": "“Dig!” shouted Cap’n Bones.",
+    "alt": "“Dig!” shouted Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0257.webp",
+    "width": 308,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0258",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0345",
+    "source_paragraph_ids": [
+      "p0345"
+    ],
+    "description": "“A big storm is comin’, Cap’n!” said Pinky.",
+    "alt": "“A big storm is comin’, Cap’n!” said Pinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0258.webp",
+    "width": 304,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0259",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0346",
+    "source_paragraph_ids": [
+      "p0346"
+    ],
+    "description": "“Go back!” said Polly.",
+    "alt": "“Go back!” said Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0259.webp",
+    "width": 302,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0260",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0347",
+    "source_paragraph_ids": [
+      "p0347"
+    ],
+    "description": "“The bird’s an omen, Cap’n!” shouted Stinky.",
+    "alt": "“The bird’s an omen, Cap’n!” shouted Stinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0260.webp",
+    "width": 307,
+    "height": 307,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0261",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0348",
+    "source_paragraph_ids": [
+      "p0348"
+    ],
+    "description": "“Dig, you dogs!” cried Cap’n Bones.",
+    "alt": "“Dig, you dogs!” cried Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0261.webp",
+    "width": 308,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0262",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0349",
+    "source_paragraph_ids": [
+      "p0349"
+    ],
+    "description": "“Go back!” squawked Polly.",
+    "alt": "“Go back!” squawked Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0262.webp",
+    "width": 303,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0263",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0350",
+    "source_paragraph_ids": [
+      "p0350"
+    ],
+    "description": "“The bird’s warning us!” shouted Pinky. “We’ve got to get to the ship before it’s too late!”",
+    "alt": "“The bird’s warning us!” shouted Pinky. “We’ve got to get to the ship before it’s too late!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0263.webp",
+    "width": 302,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0264",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0351",
+    "source_paragraph_ids": [
+      "p0351"
+    ],
+    "description": "The two pirates threw down their shovels. They started running toward the rowboat.",
+    "alt": "The two pirates threw down their shovels. They started running toward the rowboat.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0264.webp",
+    "width": 307,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0265",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0352",
+    "source_paragraph_ids": [
+      "p0352"
+    ],
+    "description": "“Mutineers! Come back!” shouted Cap’n Bones. He dragged Jack and Annie down the beach as he ran after his men. “Stop!”",
+    "alt": "“Mutineers! Come back!” shouted Cap’n Bones. He dragged Jack and Annie down the beach as he ran after his men. “Stop!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0265.webp",
+    "width": 308,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0266",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0353",
+    "source_paragraph_ids": [
+      "p0353"
+    ],
+    "description": "But the pirates kept running. They got to the rowboat and pushed it into the sea.",
+    "alt": "But the pirates kept running. They got to the rowboat and pushed it into the sea.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0266.webp",
+    "width": 303,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0267",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0354",
+    "source_paragraph_ids": [
+      "p0354"
+    ],
+    "description": "“Wait!” cried Cap’n Bones.",
+    "alt": "“Wait!” cried Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0267.webp",
+    "width": 302,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0268",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0355",
+    "source_paragraph_ids": [
+      "p0355"
+    ],
+    "description": "Pinky and Stinky jumped into the boat. They started rowing.",
+    "alt": "Pinky and Stinky jumped into the boat. They started rowing.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0268.webp",
+    "width": 307,
+    "height": 302,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0269",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0356",
+    "source_paragraph_ids": [
+      "p0356"
+    ],
+    "description": "“Wait!” Cap’n Bones let go of Jack and Annie. He ran into the water. “Wait, you dogs!”",
+    "alt": "“Wait!” Cap’n Bones let go of Jack and Annie. He ran into the water. “Wait, you dogs!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0269.webp",
+    "width": 308,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0270",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0358",
+    "source_paragraph_ids": [
+      "p0357",
+      "p0358"
+    ],
+    "description": "He hauled himself into the rowboat. Then the three pirates disappeared into the spray of the waves.",
+    "alt": "He hauled himself into the rowboat. Then the three pirates disappeared into the spray of the waves.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0270.webp",
+    "width": 303,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0271",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0359",
+    "source_paragraph_ids": [
+      "p0359"
+    ],
+    "description": "“Go back!” squawked Polly.",
+    "alt": "“Go back!” squawked Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0271.webp",
+    "width": 301,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0272",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0360",
+    "source_paragraph_ids": [
+      "p0360"
+    ],
+    "description": "“She means us!” said Annie.",
+    "alt": "“She means us!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0272.webp",
+    "width": 307,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
