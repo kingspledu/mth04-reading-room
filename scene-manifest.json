@@ -3070,5 +3070,253 @@
     "width": 377,
     "height": 254,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0193",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0258",
+    "source_paragraph_ids": [
+      "p0257",
+      "p0258"
+    ],
+    "description": "“Look,” he said. He found a picture of pirates burying a treasure chest. “This might help.”",
+    "alt": "“Look,” he said. He found a picture of pirates burying a treasure chest. “This might help.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0193.webp",
+    "width": 311,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0194",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0260",
+    "source_paragraph_ids": [
+      "p0259",
+      "p0260"
+    ],
+    "description": "Together they read the words under the picture. Captain Kidd was a famous pirate. It is said that he buried a treasure chest on a deserted island. The chest was filled with gold and jewels.",
+    "alt": "Together they read the words under the picture. Captain Kidd was a famous pirate. It is said that he buried a treasure chest on a deserted island. The chest was filled with gold and jewels.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0194.webp",
+    "width": 297,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0195",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0261",
+    "source_paragraph_ids": [
+      "p0261"
+    ],
+    "description": "“Captain Kidd!” said Jack.",
+    "alt": "“Captain Kidd!” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0195.webp",
+    "width": 298,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0196",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0263",
+    "source_paragraph_ids": [
+      "p0262",
+      "p0263"
+    ],
+    "description": "“So that’s the kid that Bones keeps talking about,” said Annie. “Right,” said Jack.",
+    "alt": "“So that’s the kid that Bones keeps talking about,” said Annie. “Right,” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0196.webp",
+    "width": 310,
+    "height": 306,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0197",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0265",
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265"
+    ],
+    "description": "Annie looked out the round window. “And Captain Kidd’s treasure is buried somewhere on the island,” she said.",
+    "alt": "Annie looked out the round window. “And Captain Kidd’s treasure is buried somewhere on the island,” she said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0197.webp",
+    "width": 311,
+    "height": 297,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0198",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0268",
+    "source_paragraph_ids": [
+      "p0266",
+      "p0267",
+      "p0268"
+    ],
+    "description": "Jack took out his notebook and pencil. He wrote: Captain Kidd’s treasure\non island “Ja-ack,” Annie said.",
+    "alt": "Jack took out his notebook and pencil. He wrote: Captain Kidd’s treasure\non island “Ja-ack,” Annie said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0198.webp",
+    "width": 298,
+    "height": 297,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0199",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0269",
+    "source_paragraph_ids": [
+      "p0269"
+    ],
+    "description": "“Shhh, wait a minute,” he said. “I’m thinking.”",
+    "alt": "“Shhh, wait a minute,” he said. “I’m thinking.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0199.webp",
+    "width": 297,
+    "height": 297,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0200",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0270",
+    "source_paragraph_ids": [
+      "p0270"
+    ],
+    "description": "“Guess what I see?” said Annie.",
+    "alt": "“Guess what I see?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0200.webp",
+    "width": 310,
+    "height": 297,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0201",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0271",
+    "source_paragraph_ids": [
+      "p0271"
+    ],
+    "description": "“What?” Jack asked. He looked back at the book.",
+    "alt": "“What?” Jack asked. He looked back at the book.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0201.webp",
+    "width": 312,
+    "height": 291,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0202",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0273",
+    "source_paragraph_ids": [
+      "p0272",
+      "p0273"
+    ],
+    "description": "“A whale.” “Neat,” he said. Then he looked up. “A whale? Did you say … a whale?”",
+    "alt": "“A whale.” “Neat,” he said. Then he looked up. “A whale? Did you say … a whale?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0202.webp",
+    "width": 299,
+    "height": 291,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0203",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0274",
+    "source_paragraph_ids": [
+      "p0274"
+    ],
+    "description": "“A whale. A huge whale. As big as a football field.”",
+    "alt": "“A whale. A huge whale. As big as a football field.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0203.webp",
+    "width": 296,
+    "height": 291,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0204",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0276",
+    "source_paragraph_ids": [
+      "p0275",
+      "p0276"
+    ],
+    "description": "Jack jumped up and looked out the window with her. “Where?” Jack asked. All he could see was the island. And stormy waves. And shark fins.",
+    "alt": "Jack jumped up and looked out the window with her. “Where?” Jack asked. All he could see was the island. And stormy waves. And shark fins.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0204.webp",
+    "width": 311,
+    "height": 291,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0205",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0277",
+    "source_paragraph_ids": [
+      "p0277"
+    ],
+    "description": "“There!” said Annie.",
+    "alt": "“There!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0205.webp",
+    "width": 311,
+    "height": 310,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0206",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0278",
+    "source_paragraph_ids": [
+      "p0278"
+    ],
+    "description": "“Where? Where?”",
+    "alt": "“Where? Where?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0206.webp",
+    "width": 297,
+    "height": 310,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0207",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0279",
+    "source_paragraph_ids": [
+      "p0279"
+    ],
+    "description": "“There! The island is shaped like a giant whale!”",
+    "alt": "“There! The island is shaped like a giant whale!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0207.webp",
+    "width": 295,
+    "height": 310,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0208",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0280",
+    "source_paragraph_ids": [
+      "p0280"
+    ],
+    "description": "“Oh man,” whispered Jack. Now he could see it.",
+    "alt": "“Oh man,” whispered Jack. Now he could see it.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0208.webp",
+    "width": 311,
+    "height": 310,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
