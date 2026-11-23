@@ -309,5 +309,318 @@
     "generated_at": "20261123T045758274464Z",
     "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
     "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0017",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0025",
+    "source_paragraph_ids": [
+      "p0024",
+      "p0025"
+    ],
+    "description": "They looked up. Tucked between two branches was the tree house. It looked dark and lonely against the stormy sky.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0017.webp",
+    "width": 307,
+    "height": 303,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 1,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0018",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0026",
+    "source_paragraph_ids": [
+      "p0026"
+    ],
+    "description": "Hanging from the tree house was a rope ladder. It was blowing in the wind.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0018.webp",
+    "width": 307,
+    "height": 303,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 2,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0019",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0027",
+    "source_paragraph_ids": [
+      "p0027"
+    ],
+    "description": "Jack thought of all the books up there. He hoped they weren’t getting wet.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0019.webp",
+    "width": 307,
+    "height": 303,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 3,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0020",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0029",
+    "source_paragraph_ids": [
+      "p0028",
+      "p0029"
+    ],
+    "description": "“The M person’s been there,” said Annie. Jack caught his breath. “How can you tell?” he said.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0020.webp",
+    "width": 308,
+    "height": 303,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 4,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0021",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0031",
+    "source_paragraph_ids": [
+      "p0030",
+      "p0031"
+    ],
+    "description": "“I can feel it,” she whispered. She grabbed the rope ladder and started up. Jack followed.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0021.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 5,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0022",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0033",
+    "source_paragraph_ids": [
+      "p0032",
+      "p0033"
+    ],
+    "description": "Inside the tree house it was chilly and damp. But the books were dry. They were all neatly stacked along the wall. Just the way they had been the day before.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0022.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 6,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0023",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0034",
+    "source_paragraph_ids": [
+      "p0034"
+    ],
+    "description": "Annie picked up a castle book on top of one stack. It had taken them to the time of castles.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0023.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 7,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0024",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0035",
+    "source_paragraph_ids": [
+      "p0035"
+    ],
+    "description": "“Remember the knight?” she said.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0024.webp",
+    "width": 308,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 8,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0025",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0036",
+    "source_paragraph_ids": [
+      "p0036"
+    ],
+    "description": "Jack nodded. He would never forget the knight who had helped them.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0025.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 9,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0026",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0037",
+    "source_paragraph_ids": [
+      "p0037"
+    ],
+    "description": "Annie put down the castle book. She picked up the next book on the stack.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0026.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 10,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0027",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0039",
+    "source_paragraph_ids": [
+      "p0038",
+      "p0039"
+    ],
+    "description": "It was the dinosaur book that had taken them to the time of dinosaurs. “Remember?” she said.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0027.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 11,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0028",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0041",
+    "source_paragraph_ids": [
+      "p0040",
+      "p0041"
+    ],
+    "description": "Jack nodded. He’d never forget the pteranodon who had saved him from the Tyrannosaurus rex.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0028.webp",
+    "width": 308,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 12,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0029",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0043",
+    "source_paragraph_ids": [
+      "p0042",
+      "p0043"
+    ],
+    "description": "Then Annie held up a book about ancient Egypt. “Meow,” she said.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0029.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 13,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0030",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0044",
+    "source_paragraph_ids": [
+      "p0044"
+    ],
+    "description": "Jack smiled. The Egypt book had taken them to the time of pyramids. A black cat had come to the rescue there.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0030.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 14,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0031",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0046",
+    "source_paragraph_ids": [
+      "p0045",
+      "p0046"
+    ],
+    "description": "“And here’s the book about home,” Annie said. She held up the book with the picture of their hometown in it.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0031.webp",
+    "width": 307,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 15,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0032",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0048",
+    "source_paragraph_ids": [
+      "p0047",
+      "p0048"
+    ],
+    "description": "Frog Creek, Pennsylvania. Jack smiled again. The Pennsylvania book had brought them back home at the end of each of their adventures.",
+    "alt": "",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0032.webp",
+    "width": 308,
+    "height": 304,
+    "grid_id": "scene-0017-scene-0018-scene-0019-scene-0020-scene-0021-scene-0022-scene-0023-scene-0024-scene-0025-scene-0026-scene-0027-scene-0028-scene-0029-scene-0030-scene-0031-scene-0032",
+    "quadrant": 16,
+    "generated_at": "20261123T050128401431Z",
+    "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
+    "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
   }
 ]
