@@ -25,7 +25,9 @@
     try {
       const words = await definitions;
       if (token !== request) return;
-      const entry = words[button.dataset.word];
+      const entry = button.dataset.ko && button.dataset.definition
+        ? {ko: button.dataset.ko, definition: button.dataset.definition}
+        : words[button.dataset.word];
       if (!entry) return;
       card = document.createElement('span');
       card.className = 'vocabulary-card';

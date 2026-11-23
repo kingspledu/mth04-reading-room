@@ -1,6 +1,6 @@
 'use strict';
 const PREFIX='story-reader-mth04-reading-room-';
-const CACHE=PREFIX+'8c9526fff01a';
+const CACHE=PREFIX+'8c9526fff01a-vocab-20261123';
 const ROOT=new URL('./',self.location).href;
 const CORE=['./part-01-01.html','./part-01-02.html','./part-02-01.html','./part-03-01.html','./part-04-01.html','./part-05-01.html','./part-06-01.html','./part-07-01.html','./part-08-01.html','./part-08-02.html','./part-09-01.html','./part-10-01.html','./part-10-02.html','./learning.js','./learning.css','./vocabulary.json','./characters.html','./','./style.css?v=e98a9d8c6372','./app.js?v=e98a9d8c6372','./pwa.js?v=e98a9d8c6372','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
