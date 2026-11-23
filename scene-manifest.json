@@ -2578,5 +2578,251 @@
     "width": 308,
     "height": 314,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0161",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0213",
+    "source_paragraph_ids": [
+      "p0213"
+    ],
+    "description": "“Well, it means … ” Cap’n Bones’ good eye squinted at the writing. He frowned. He coughed. He rubbed his nose.",
+    "alt": "“Well, it means … ” Cap’n Bones’ good eye squinted at the writing. He frowned. He coughed. He rubbed his nose.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0161.webp",
+    "width": 379,
+    "height": 240,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0162",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0215",
+    "source_paragraph_ids": [
+      "p0214",
+      "p0215"
+    ],
+    "description": "“Aw, leave him alone,” Pinky growled at Jack. “You know he can’t read,” said Stinky.",
+    "alt": "“Aw, leave him alone,” Pinky growled at Jack. “You know he can’t read,” said Stinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0162.webp",
+    "width": 371,
+    "height": 240,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0163",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0216",
+    "source_paragraph_ids": [
+      "p0216"
+    ],
+    "description": "“Shut up!” Cap’n Bones roared at his men.",
+    "alt": "“Shut up!” Cap’n Bones roared at his men.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0163.webp",
+    "width": 371,
+    "height": 240,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0164",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0218",
+    "source_paragraph_ids": [
+      "p0217",
+      "p0218"
+    ],
+    "description": "“Jack and I can read,” Annie piped up. “Shhh,” said Jack.",
+    "alt": "“Jack and I can read,” Annie piped up. “Shhh,” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0164.webp",
+    "width": 377,
+    "height": 240,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0165",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0219",
+    "source_paragraph_ids": [
+      "p0219"
+    ],
+    "description": "“Cap’n, make ’em read the map!” said Stinky.",
+    "alt": "“Cap’n, make ’em read the map!” said Stinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0165.webp",
+    "width": 379,
+    "height": 207,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0166",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0220",
+    "source_paragraph_ids": [
+      "p0220"
+    ],
+    "description": "Cap’n Bones gave Jack and Annie a dark look. “Read it,” he growled.",
+    "alt": "Cap’n Bones gave Jack and Annie a dark look. “Read it,” he growled.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0166.webp",
+    "width": 371,
+    "height": 207,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0167",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0221",
+    "source_paragraph_ids": [
+      "p0221"
+    ],
+    "description": "“Then will you let us go?” said Jack.",
+    "alt": "“Then will you let us go?” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0167.webp",
+    "width": 371,
+    "height": 207,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0168",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0222",
+    "source_paragraph_ids": [
+      "p0222"
+    ],
+    "description": "The pirate squinted his good eye. “Aye, lubber. When the treasure’s in me hands, I’ll let you go.”",
+    "alt": "The pirate squinted his good eye. “Aye, lubber. When the treasure’s in me hands, I’ll let you go.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0168.webp",
+    "width": 377,
+    "height": 207,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0169",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0223",
+    "source_paragraph_ids": [
+      "p0223"
+    ],
+    "description": "“Okay,” said Jack. “I’ll read it to you.” He looked at the map. “It says, The gold doth lie beneath the whale’s eye.”",
+    "alt": "“Okay,” said Jack. “I’ll read it to you.” He looked at the map. “It says, The gold doth lie beneath the whale’s eye.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0169.webp",
+    "width": 379,
+    "height": 218,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0170",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0224",
+    "source_paragraph_ids": [
+      "p0224"
+    ],
+    "description": "“Heh?” Cap’n Bones scowled. “What’s that supposed to mean, lubber?”",
+    "alt": "“Heh?” Cap’n Bones scowled. “What’s that supposed to mean, lubber?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0170.webp",
+    "width": 371,
+    "height": 218,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0171",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0226",
+    "source_paragraph_ids": [
+      "p0225",
+      "p0226"
+    ],
+    "description": "Jack shrugged. “Hang it! Take ’em hack to the ship!” shouted Cap’n Bones. “They can rot there till they’re ready to tell us how to find Kidd’s treasure!”",
+    "alt": "Jack shrugged. “Hang it! Take ’em hack to the ship!” shouted Cap’n Bones. “They can rot there till they’re ready to tell us how to find Kidd’s treasure!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0171.webp",
+    "width": 371,
+    "height": 218,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0172",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0228",
+    "source_paragraph_ids": [
+      "p0227",
+      "p0228"
+    ],
+    "description": "Jack and Annie were tossed into the rowboat. Waves splashed the sides. The sky ahead was dark with thunderclouds. A strong wind had started to blow.",
+    "alt": "Jack and Annie were tossed into the rowboat. Waves splashed the sides. The sky ahead was dark with thunderclouds. A strong wind had started to blow.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0172.webp",
+    "width": 377,
+    "height": 218,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0173",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0229",
+    "source_paragraph_ids": [
+      "p0229"
+    ],
+    "description": "“Row, dogs, row!” said Cap’n Bones.",
+    "alt": "“Row, dogs, row!” said Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0173.webp",
+    "width": 379,
+    "height": 252,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0174",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0231",
+    "source_paragraph_ids": [
+      "p0230",
+      "p0231"
+    ],
+    "description": "Pinky and Stinky began rowing toward the big ship. “Look!” Annie said to Jack. She pointed to the shore.",
+    "alt": "Pinky and Stinky began rowing toward the big ship. “Look!” Annie said to Jack. She pointed to the shore.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0174.webp",
+    "width": 371,
+    "height": 252,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0175",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0233",
+    "source_paragraph_ids": [
+      "p0232",
+      "p0233"
+    ],
+    "description": "Polly the parrot was flying over the sand. “She wants to help us,” whispered Annie.",
+    "alt": "Polly the parrot was flying over the sand. “She wants to help us,” whispered Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0175.webp",
+    "width": 371,
+    "height": 252,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0176",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0234",
+    "source_paragraph_ids": [
+      "p0234"
+    ],
+    "description": "Polly started to fly out over the waves. But the winds were too strong. She turned around and flew back to the island.",
+    "alt": "Polly started to fly out over the waves. But the winds were too strong. She turned around and flew back to the island.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0176.webp",
+    "width": 377,
+    "height": 252,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
