@@ -3318,5 +3318,250 @@
     "width": 311,
     "height": 310,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0209",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0281",
+    "source_paragraph_ids": [
+      "p0281"
+    ],
+    "description": "“See the whale’s back?” said Annie.",
+    "alt": "“See the whale’s back?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0209.webp",
+    "width": 377,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0210",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0282",
+    "source_paragraph_ids": [
+      "p0282"
+    ],
+    "description": "“Yep.” The slope of the island looked like the back of a whale.",
+    "alt": "“Yep.” The slope of the island looked like the back of a whale.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0210.webp",
+    "width": 372,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0211",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0283",
+    "source_paragraph_ids": [
+      "p0283"
+    ],
+    "description": "“See his spout?” said Annie.",
+    "alt": "“See his spout?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0211.webp",
+    "width": 372,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0212",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0284",
+    "source_paragraph_ids": [
+      "p0284"
+    ],
+    "description": "“Yep.” The palm tree that held the tree house looked like the spout of the whale.",
+    "alt": "“Yep.” The palm tree that held the tree house looked like the spout of the whale.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0212.webp",
+    "width": 375,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0213",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0285",
+    "source_paragraph_ids": [
+      "p0285"
+    ],
+    "description": "“See his eye?” said Annie.",
+    "alt": "“See his eye?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0213.webp",
+    "width": 377,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0214",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0286",
+    "source_paragraph_ids": [
+      "p0286"
+    ],
+    "description": "“Yep.” A big black rock looked like the eye of the whale.",
+    "alt": "“Yep.” A big black rock looked like the eye of the whale.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0214.webp",
+    "width": 373,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0215",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0287",
+    "source_paragraph_ids": [
+      "p0287"
+    ],
+    "description": "“The gold doth lie beneath the whale’s eye,” whispered Jack. “Wow.”",
+    "alt": "“The gold doth lie beneath the whale’s eye,” whispered Jack. “Wow.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0215.webp",
+    "width": 371,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0216",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0289",
+    "source_paragraph_ids": [
+      "p0288",
+      "p0289"
+    ],
+    "description": "“So the treasure must be under that rock,” said Annie. “Right,” said Jack. “Now we just have to get back to the island. We’ll show Cap’n Bones where the treasure is. Then while all the pirates are digging, we’ll sneak up to the tree house.”",
+    "alt": "“So the treasure must be under that rock,” said Annie. “Right,” said Jack. “Now we just have to get back to the island. We’ll show Cap’n Bones where the treasure is. Then while all the pirates are digging, we’ll sneak up to the tree house.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0216.webp",
+    "width": 375,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0217",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0291",
+    "source_paragraph_ids": [
+      "p0290",
+      "p0291"
+    ],
+    "description": "“And make a wish to go home,” said Annie. “Right.” Jack poked his head out of the round window of the cabin. “Cap’n Bones, sir!” he shouted.",
+    "alt": "“And make a wish to go home,” said Annie. “Right.” Jack poked his head out of the round window of the cabin. “Cap’n Bones, sir!” he shouted.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0217.webp",
+    "width": 377,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0218",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0292",
+    "source_paragraph_ids": [
+      "p0292"
+    ],
+    "description": "The pirates took up the cry. “Cap’n Bones! Cap’n Bones!”",
+    "alt": "The pirates took up the cry. “Cap’n Bones! Cap’n Bones!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0218.webp",
+    "width": 371,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0219",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0293",
+    "source_paragraph_ids": [
+      "p0293"
+    ],
+    "description": "“Hey?” came a horrible voice.",
+    "alt": "“Hey?” came a horrible voice.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0219.webp",
+    "width": 372,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0220",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0294",
+    "source_paragraph_ids": [
+      "p0294"
+    ],
+    "description": "Cap’n Bones stuck his ugly face through the window. His good eye glared at Jack. “What do you want, lubbers?”",
+    "alt": "Cap’n Bones stuck his ugly face through the window. His good eye glared at Jack. “What do you want, lubbers?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0220.webp",
+    "width": 374,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0221",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0296",
+    "source_paragraph_ids": [
+      "p0295",
+      "p0296"
+    ],
+    "description": "“We’re ready to tell the truth, sir,” said Jack. “Go ahead,” growled Cap’n Bones.",
+    "alt": "“We’re ready to tell the truth, sir,” said Jack. “Go ahead,” growled Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0221.webp",
+    "width": 377,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0222",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0298",
+    "source_paragraph_ids": [
+      "p0297",
+      "p0298"
+    ],
+    "description": "“We know where Captain Kidd’s treasure is.” “Where?”",
+    "alt": "“We know where Captain Kidd’s treasure is.” “Where?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0222.webp",
+    "width": 372,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0223",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0299",
+    "source_paragraph_ids": [
+      "p0299"
+    ],
+    "description": "“We can’t just tell you. We have to show you,” said Annie.",
+    "alt": "“We can’t just tell you. We have to show you,” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0223.webp",
+    "width": 371,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0224",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0301",
+    "source_paragraph_ids": [
+      "p0300",
+      "p0301"
+    ],
+    "description": "Cap’n Bones gave Annie and Jack a long hard look. “You’ll need a rope,” said Jack.",
+    "alt": "Cap’n Bones gave Annie and Jack a long hard look. “You’ll need a rope,” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0224.webp",
+    "width": 375,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
