@@ -1,0 +1,313 @@
+[
+  {
+    "id": "scene-0001",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0001",
+    "source_paragraph_ids": [
+      "p0001"
+    ],
+    "description": "Jack stared out his bedroom window. The rain kept falling. And falling.",
+    "alt": "Jack watches the rain from his bedroom.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0001.webp",
+    "width": 304,
+    "height": 306,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 1,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0002",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0003",
+    "source_paragraph_ids": [
+      "p0002",
+      "p0003"
+    ],
+    "description": "“The TV said it would stop by noon,” said Annie, his seven-year-old sister. “It’s already past noon,” said Jack.",
+    "alt": "Annie talks to Jack by the rainy window.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0002.webp",
+    "width": 304,
+    "height": 306,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 2,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0003",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0004",
+    "source_paragraph_ids": [
+      "p0004"
+    ],
+    "description": "“But we have to go to the tree house,” said Annie. “I have a feeling the M person will be there today.”",
+    "alt": "Annie wants to visit the tree house.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0003.webp",
+    "width": 304,
+    "height": 306,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 3,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0004",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0005",
+    "source_paragraph_ids": [
+      "p0005"
+    ],
+    "description": "Jack pushed his glasses into place and took a deep breath. He wasn’t sure he was ready to meet the M person yet. The mysterious person who had put all the books in the magic tree house.",
+    "alt": "Jack adjusts his glasses.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0004.webp",
+    "width": 305,
+    "height": 306,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 4,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0005",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0007",
+    "source_paragraph_ids": [
+      "p0006",
+      "p0007"
+    ],
+    "description": "“Come on,” said Annie. Jack sighed. “Okay,” he said. “You get our raincoats and boots. I’ll get the medallion and bookmark.”",
+    "alt": "The children prepare to leave.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0005.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 5,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0006",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0009",
+    "source_paragraph_ids": [
+      "p0008",
+      "p0009"
+    ],
+    "description": "Annie ran to get their rain gear. Jack reached into his drawer. He took out the medallion.",
+    "alt": "Jack opens his drawer as Annie gets their rain gear.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0006.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 6,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0007",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0010",
+    "source_paragraph_ids": [
+      "p0010"
+    ],
+    "description": "It was gold. The letter M was engraved on it.",
+    "alt": "The gold medallion is marked M.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0007.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 7,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0008",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0011",
+    "source_paragraph_ids": [
+      "p0011"
+    ],
+    "description": "Then he took out the bookmark. It was made of blue leather. It had the same M on it.",
+    "alt": "The blue leather bookmark is marked M.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0008.webp",
+    "width": 305,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 8,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0009",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0013",
+    "source_paragraph_ids": [
+      "p0012",
+      "p0013"
+    ],
+    "description": "Both M’s matched the M that was on the floor of the tree house. Jack put the medallion and bookmark into his backpack. Then he threw in his notebook and pencil. Jack liked to take notes about important things.",
+    "alt": "Jack packs his bag.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0009.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 9,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0010",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0014",
+    "source_paragraph_ids": [
+      "p0014"
+    ],
+    "description": "“I got our rain stuff!” called Annie.",
+    "alt": "Annie brings their rain gear.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0010.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 10,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0011",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "Jack picked up his pack and went downstairs. Annie was waiting by the back door. She was putting on her boots. “Meet you outside,” she said.",
+    "alt": "Annie puts on her boots.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0011.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 11,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0012",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0016",
+    "source_paragraph_ids": [
+      "p0016"
+    ],
+    "description": "Jack pulled on his raincoat and boots. Then he put on his backpack and joined her.",
+    "alt": "Jack and Annie step outside in raincoats.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0012.webp",
+    "width": 305,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 12,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0013",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0018",
+    "source_paragraph_ids": [
+      "p0017",
+      "p0018"
+    ],
+    "description": "The wind was blowing hard. “Ready! Set! Go!” shouted Annie.",
+    "alt": "Annie calls out in the wind.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0013.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 13,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0014",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0020",
+    "source_paragraph_ids": [
+      "p0019",
+      "p0020"
+    ],
+    "description": "They kept their heads down and charged into the rainy wind. Soon they were in the Frog Creek woods.",
+    "alt": "The children run into the woods.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0014.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 14,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0015",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0022",
+    "source_paragraph_ids": [
+      "p0021",
+      "p0022"
+    ],
+    "description": "Tree branches swayed, flinging rainwater everywhere. “Yuck!” said Annie.",
+    "alt": "Rain falls from the branches.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0015.webp",
+    "width": 304,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 15,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  },
+  {
+    "id": "scene-0016",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0023",
+    "source_paragraph_ids": [
+      "p0023"
+    ],
+    "description": "They splashed through puddles. Until they came to the tallest oak tree in the woods.",
+    "alt": "The children approach the tall oak tree.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0016.webp",
+    "width": 305,
+    "height": 307,
+    "grid_id": "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016",
+    "quadrant": 16,
+    "generated_at": "20261123T045758274464Z",
+    "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+    "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+  }
+]

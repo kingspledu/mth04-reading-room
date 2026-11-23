@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-mth04-reading-room-';
-const CACHE=PREFIX+'1870c94055d0';
+const CACHE=PREFIX+'a37faa58ceee';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./learning.js','./learning.css','./vocabulary.json','./characters.html','./','./style.css?v=4fe528d3b17c','./app.js?v=4fe528d3b17c','./pwa.js?v=4fe528d3b17c','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./learning.js','./learning.css','./vocabulary.json','./characters.html','./','./style.css?v=bf2e644fb02b','./app.js?v=bf2e644fb02b','./pwa.js?v=bf2e644fb02b','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{

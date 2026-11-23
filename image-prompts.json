@@ -1,0 +1,29 @@
+{
+  "scene-0001-scene-0002-scene-0003-scene-0004-scene-0005-scene-0006-scene-0007-scene-0008-scene-0009-scene-0010-scene-0011-scene-0012-scene-0013-scene-0014-scene-0015-scene-0016": [
+    {
+      "scene_ids": [
+        "scene-0001",
+        "scene-0002",
+        "scene-0003",
+        "scene-0004",
+        "scene-0005",
+        "scene-0006",
+        "scene-0007",
+        "scene-0008",
+        "scene-0009",
+        "scene-0010",
+        "scene-0011",
+        "scene-0012",
+        "scene-0013",
+        "scene-0014",
+        "scene-0015",
+        "scene-0016"
+      ],
+      "grid": "4x4",
+      "prompt": "4x4 warm graphic novel scenes from Chapter 1. Jack red shirt round glasses; Annie blonde lavender. Rain gear yellow/olive and teal/red only after dressing. Row-major source events:\nJack stared out his bedroom window. The rain kept falling. And falling.\n“The TV said it would stop by noon,” said Annie, his seven-year-old sister. “It’s already past noon,” said Jack.\n“But we have to go to the tree house,” said Annie. “I have a feeling the M person will be there today.”\nJack pushed his glasses into place and took a deep breath. He wasn’t sure he was ready to meet the M person yet. The mysterious person who had put all the books in the magic tree house.\n“Come on,” said Annie. Jack sighed. “Okay,” he said. “You get our raincoats and boots. I’ll get the medallion and bookmark.”\nAnnie ran to get their rain gear. Jack reached into his drawer. He took out the medallion.\nIt was gold. The letter M was engraved on it.\nThen he took out the bookmark. It was made of blue leather. It had the same M on it.\nBoth M’s matched the M that was on the floor of the tree house. Jack put the medallion and bookmark into his backpack. Then he threw in his notebook and pencil. Jack liked to take notes about important things.\n“I got our rain stuff!” called Annie.\nJack picked up his pack and went downstairs. Annie was waiting by the back door. She was putting on her boots. “Meet you outside,” she said.\nJack pulled on his raincoat and boots. Then he put on his backpack and joined her.\nThe wind was blowing hard. “Ready! Set! Go!” shouted Annie.\nThey kept their heads down and charged into the rainy wind. Soon they were in the Frog Creek woods.\nTree branches swayed, flinging rainwater everywhere. “Yuck!” said Annie.\nThey splashed through puddles. Until they came to the tallest oak tree in the woods.",
+      "generated_at": "20261123T045758274464Z",
+      "grid_sha256": "e0a00da9a4f24fdbabeb72e194b4fcfc854c6d8b06737c7c7f04440ed2191c3e",
+      "review_note": "Inspected 16 panels, clothing transition, identities, M props and chronology."
+    }
+  ]
+}
