@@ -622,5 +622,251 @@
     "generated_at": "20261123T050128401431Z",
     "grid_sha256": "b4a5255a01ed9da58ffe52d7374598c603a81dc174b6e3fdd8efdf9f41104eaf",
     "review_note": "Inspected identities, rain wardrobe, book pictures, oak treehouse and panel order."
+  },
+  {
+    "id": "scene-0033",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0049",
+    "source_paragraph_ids": [
+      "p0049"
+    ],
+    "description": "Jack sighed. Okay. He still had two main questions.",
+    "alt": "Jack sighed. Okay. He still had two main questions.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0033.webp",
+    "width": 378,
+    "height": 249,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0034",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0051",
+    "source_paragraph_ids": [
+      "p0050",
+      "p0051"
+    ],
+    "description": "Who was the M person who had put all the books here? And did the knight, the pteranodon, and the cat all know the M person?",
+    "alt": "Who was the M person who had put all the books here? And did the knight, the pteranodon, and the cat all know the M person?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0034.webp",
+    "width": 369,
+    "height": 249,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0035",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0052",
+    "source_paragraph_ids": [
+      "p0052"
+    ],
+    "description": "Finally Jack reached into his backpack. He took out the gold medallion and the leather bookmark. He placed them on the floor. Right over the spot where the M glowed faintly in the wood.",
+    "alt": "Finally Jack reached into his backpack. He took out the gold medallion and the leather bookmark. He placed them on the floor. Right over the spot where the M glowed faintly in the wood.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0035.webp",
+    "width": 369,
+    "height": 249,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0036",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0054",
+    "source_paragraph_ids": [
+      "p0053",
+      "p0054"
+    ],
+    "description": "Rain blew into the tree house. “Brr!” said Annie. “It’s not very cozy today.”",
+    "alt": "Rain blew into the tree house. “Brr!” said Annie. “It’s not very cozy today.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0036.webp",
+    "width": 377,
+    "height": 249,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0037",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0055",
+    "source_paragraph_ids": [
+      "p0055"
+    ],
+    "description": "Jack agreed with her. It was too wet and cold.",
+    "alt": "Jack agreed with her. It was too wet and cold.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0037.webp",
+    "width": 378,
+    "height": 241,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0038",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0056",
+    "source_paragraph_ids": [
+      "p0056"
+    ],
+    "description": "“Look.” Annie pointed to an open book lying in the corner. “I don’t remember a book being open.”",
+    "alt": "“Look.” Annie pointed to an open book lying in the corner. “I don’t remember a book being open.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0038.webp",
+    "width": 369,
+    "height": 241,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0039",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0058",
+    "source_paragraph_ids": [
+      "p0057",
+      "p0058"
+    ],
+    "description": "“Me neither,” said Jack. Annie picked up the book. She stared at the picture on the page.",
+    "alt": "“Me neither,” said Jack. Annie picked up the book. She stared at the picture on the page.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0039.webp",
+    "width": 369,
+    "height": 241,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0040",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0059",
+    "source_paragraph_ids": [
+      "p0059"
+    ],
+    "description": "“Wow, this place looks great.” She showed the picture to Jack.",
+    "alt": "“Wow, this place looks great.” She showed the picture to Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0040.webp",
+    "width": 377,
+    "height": 241,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0041",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0060",
+    "source_paragraph_ids": [
+      "p0060"
+    ],
+    "description": "He saw a sunny beach. A big green parrot sitting in a palm tree. And a ship sailing on a blue sea.",
+    "alt": "He saw a sunny beach. A big green parrot sitting in a palm tree. And a ship sailing on a blue sea.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0041.webp",
+    "width": 378,
+    "height": 242,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0042",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0062",
+    "source_paragraph_ids": [
+      "p0061",
+      "p0062"
+    ],
+    "description": "Another gust of rainy wind blew into the tree house. Annie pointed to the picture. “I wish we were there instead of here,” she said.",
+    "alt": "Another gust of rainy wind blew into the tree house. Annie pointed to the picture. “I wish we were there instead of here,” she said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0042.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0043",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0063",
+    "source_paragraph_ids": [
+      "p0063"
+    ],
+    "description": "“Yeah,” said Jack. “But where is there?”",
+    "alt": "“Yeah,” said Jack. “But where is there?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0043.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0044",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0064",
+    "source_paragraph_ids": [
+      "p0064"
+    ],
+    "description": "“Too late!” came a squawk.",
+    "alt": "“Too late!” came a squawk.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0044.webp",
+    "width": 377,
+    "height": 242,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0045",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0066",
+    "source_paragraph_ids": [
+      "p0065",
+      "p0066"
+    ],
+    "description": "Jack and Annie turned quickly. Sitting on a branch outside the window ledge of the tree house was a green parrot. Exactly like the parrot in the picture.",
+    "alt": "Jack and Annie turned quickly. Sitting on a branch outside the window ledge of the tree house was a green parrot. Exactly like the parrot in the picture.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0045.webp",
+    "width": 378,
+    "height": 250,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0046",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0067",
+    "source_paragraph_ids": [
+      "p0067"
+    ],
+    "description": "“Too late!” the parrot squawked again.",
+    "alt": "“Too late!” the parrot squawked again.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0046.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0047",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0068",
+    "source_paragraph_ids": [
+      "p0068"
+    ],
+    "description": "“A talking parrot!” said Annie. “Is your name Polly? Can I call you Polly?”",
+    "alt": "“A talking parrot!” said Annie. “Is your name Polly? Can I call you Polly?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0047.webp",
+    "width": 369,
+    "height": 250,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
+  },
+  {
+    "id": "scene-0048",
+    "chapter_id": "chapter-001",
+    "insert_after_paragraph_id": "p0070",
+    "source_paragraph_ids": [
+      "p0069",
+      "p0070"
+    ],
+    "description": "Suddenly the wind started to whistle. “Oh no! Now we’re in big trouble!” said Jack.",
+    "alt": "Suddenly the wind started to whistle. “Oh no! Now we’re in big trouble!” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0048.webp",
+    "width": 377,
+    "height": 250,
+    "review_note": "Source sequence and actual gutter crop overlay inspected; native aspect ratio preserved."
   }
 ]
