@@ -4780,5 +4780,250 @@
     "width": 307,
     "height": 300,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0305",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0400",
+    "source_paragraph_ids": [
+      "p0399",
+      "p0400"
+    ],
+    "description": "“No magic creature has ever come back with us,” said Jack. He pulled off his backpack. It was damp with rain and saltwater.",
+    "alt": "“No magic creature has ever come back with us,” said Jack. He pulled off his backpack. It was damp with rain and saltwater.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0305.webp",
+    "width": 376,
+    "height": 253,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0306",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0401",
+    "source_paragraph_ids": [
+      "p0401"
+    ],
+    "description": "Jack took out the pirate book. He put it on the stack of books. On top of the dinosaur book. And the knight book. And the mummy book.",
+    "alt": "Jack took out the pirate book. He put it on the stack of books. On top of the dinosaur book. And the knight book. And the mummy book.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0306.webp",
+    "width": 368,
+    "height": 253,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0307",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0403",
+    "source_paragraph_ids": [
+      "p0402",
+      "p0403"
+    ],
+    "description": "Then Jack put the gold medallion beside the bookmark with the letter M. Next he went down onto his knees. And ran his finger over the shimmering M on the floor. “We didn’t find any M’s on this trip,” he said.",
+    "alt": "Then Jack put the gold medallion beside the bookmark with the letter M. Next he went down onto his knees. And ran his finger over the shimmering M on the floor. “We didn’t find any M’s on this trip,” he said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0307.webp",
+    "width": 368,
+    "height": 253,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0308",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0405",
+    "source_paragraph_ids": [
+      "p0404",
+      "p0405"
+    ],
+    "description": "“Or the M person,” said Annie. Squawk!",
+    "alt": "“Or the M person,” said Annie. Squawk!",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0308.webp",
+    "width": 375,
+    "height": 253,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0309",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0406",
+    "source_paragraph_ids": [
+      "p0406"
+    ],
+    "description": "“Polly!” Annie cried.",
+    "alt": "“Polly!” Annie cried.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0309.webp",
+    "width": 376,
+    "height": 216,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0310",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0407",
+    "source_paragraph_ids": [
+      "p0407"
+    ],
+    "description": "The parrot swooshed into the tree house. She perched on the stack of books.",
+    "alt": "The parrot swooshed into the tree house. She perched on the stack of books.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0310.webp",
+    "width": 368,
+    "height": 216,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0311",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0409",
+    "source_paragraph_ids": [
+      "p0408",
+      "p0409"
+    ],
+    "description": "Polly looked straight at Jack. “What—what are you doing here?” he asked her.",
+    "alt": "Polly looked straight at Jack. “What—what are you doing here?” he asked her.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0311.webp",
+    "width": 368,
+    "height": 216,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0312",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0410",
+    "source_paragraph_ids": [
+      "p0410"
+    ],
+    "description": "Slowly Polly raised her bright green wings. They grew bigger and bigger until they spread out like a huge green cape.",
+    "alt": "Slowly Polly raised her bright green wings. They grew bigger and bigger until they spread out like a huge green cape.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0312.webp",
+    "width": 375,
+    "height": 216,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0313",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0412",
+    "source_paragraph_ids": [
+      "p0411",
+      "p0412"
+    ],
+    "description": "Then, in a great swirl of colors—in a blur of feathers and light—in a flapping and stretching and screeching—a new being took shape. Polly was not a parrot any longer. In her place was an old woman. A beautiful old woman with long white hair and piercing eyes.",
+    "alt": "Then, in a great swirl of colors—in a blur of feathers and light—in a flapping and stretching and screeching—a new being took shape. Polly was not a parrot any longer. In her place was an old woman. A beautiful old woman with long white hair and piercing eyes.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0313.webp",
+    "width": 376,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0314",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0413",
+    "source_paragraph_ids": [
+      "p0413"
+    ],
+    "description": "She wore a green feathered cape. She perched on the stack of books. And she was very calm and very still.",
+    "alt": "She wore a green feathered cape. She perched on the stack of books. And she was very calm and very still.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0314.webp",
+    "width": 368,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0315",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0414",
+    "source_paragraph_ids": [
+      "p0414"
+    ],
+    "description": "Neither Jack nor Annie could speak. They were too amazed.",
+    "alt": "Neither Jack nor Annie could speak. They were too amazed.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0315.webp",
+    "width": 368,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0316",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0415",
+    "source_paragraph_ids": [
+      "p0415"
+    ],
+    "description": "“Hello, Jack. Hello, Annie,” the old woman said. “My name is Morgan le Fay.”",
+    "alt": "“Hello, Jack. Hello, Annie,” the old woman said. “My name is Morgan le Fay.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0316.webp",
+    "width": 375,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0317",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0416",
+    "source_paragraph_ids": [
+      "p0416"
+    ],
+    "description": "Annie found her voice first. “The M person,” she whispered.",
+    "alt": "Annie found her voice first. “The M person,” she whispered.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0317.webp",
+    "width": 376,
+    "height": 268,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0318",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0417",
+    "source_paragraph_ids": [
+      "p0417"
+    ],
+    "description": "“Yes. I’m the M person,” said Morgan.",
+    "alt": "“Yes. I’m the M person,” said Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0318.webp",
+    "width": 367,
+    "height": 268,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0319",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0418",
+    "source_paragraph_ids": [
+      "p0418"
+    ],
+    "description": "“Wh-where are you from?” asked Jack.",
+    "alt": "“Wh-where are you from?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0319.webp",
+    "width": 368,
+    "height": 268,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0320",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0419",
+    "source_paragraph_ids": [
+      "p0419"
+    ],
+    "description": "“Have you ever heard of King Arthur?” said Morgan.",
+    "alt": "“Have you ever heard of King Arthur?” said Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0320.webp",
+    "width": 375,
+    "height": 268,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
