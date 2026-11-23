@@ -1112,5 +1112,248 @@
     "width": 375,
     "height": 250,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0065",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0091",
+    "source_paragraph_ids": [
+      "p0091"
+    ],
+    "description": "“Come on!” Annie handed Jack his backpack, then started down the ladder.",
+    "alt": "“Come on!” Annie handed Jack his backpack, then started down the ladder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0065.webp",
+    "width": 376,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0066",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0092",
+    "source_paragraph_ids": [
+      "p0092"
+    ],
+    "description": "Jack folded the raincoat and put it next to the stack of books. He put on his backpack. Then he went down the ladder.",
+    "alt": "Jack folded the raincoat and put it next to the stack of books. He put on his backpack. Then he went down the ladder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0066.webp",
+    "width": 370,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0067",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "As soon as Annie hit the sand, she ran toward the ocean. Jack watched her wade into the water. She was still wearing her rain boots.",
+    "alt": "As soon as Annie hit the sand, she ran toward the ocean. Jack watched her wade into the water. She was still wearing her rain boots.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0067.webp",
+    "width": 371,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0068",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0095",
+    "source_paragraph_ids": [
+      "p0094",
+      "p0095"
+    ],
+    "description": "“Your boots, Annie,” called Jack. She shrugged. “They’ll dry out,” she said.",
+    "alt": "“Your boots, Annie,” called Jack. She shrugged. “They’ll dry out,” she said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0068.webp",
+    "width": 375,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0069",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0096",
+    "source_paragraph_ids": [
+      "p0096"
+    ],
+    "description": "Jack took off his boots and socks. He put them beside his pack. Then he rolled up his jeans. And ran across the hot sand into the waves.",
+    "alt": "Jack took off his boots and socks. He put them beside his pack. Then he rolled up his jeans. And ran across the hot sand into the waves.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0069.webp",
+    "width": 376,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0070",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0097",
+    "source_paragraph_ids": [
+      "p0097"
+    ],
+    "description": "The water was warm and clear. Jack could see shells and tiny fishes.",
+    "alt": "The water was warm and clear. Jack could see shells and tiny fishes.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0070.webp",
+    "width": 370,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0071",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0098",
+    "source_paragraph_ids": [
+      "p0098"
+    ],
+    "description": "He shielded his eyes against the sun. And peered out at the sea.",
+    "alt": "He shielded his eyes against the sun. And peered out at the sea.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0071.webp",
+    "width": 371,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0072",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0100",
+    "source_paragraph_ids": [
+      "p0099",
+      "p0100"
+    ],
+    "description": "The tall sailing ship seemed a bit closer. “Where’s Polly?” said Annie.",
+    "alt": "The tall sailing ship seemed a bit closer. “Where’s Polly?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0072.webp",
+    "width": 375,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0073",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0101",
+    "source_paragraph_ids": [
+      "p0101"
+    ],
+    "description": "Jack glanced around. No sign of Polly. Not in the palm trees. Not on the sunlit sand. Not over the bright blue sea.",
+    "alt": "Jack glanced around. No sign of Polly. Not in the palm trees. Not on the sunlit sand. Not over the bright blue sea.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0073.webp",
+    "width": 376,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0074",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0102",
+    "source_paragraph_ids": [
+      "p0102"
+    ],
+    "description": "When Jack looked out at the sea again, the ship seemed even closer. Now Jack could see its flag.",
+    "alt": "When Jack looked out at the sea again, the ship seemed even closer. Now Jack could see its flag.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0074.webp",
+    "width": 370,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0075",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0104",
+    "source_paragraph_ids": [
+      "p0103",
+      "p0104"
+    ],
+    "description": "As he stared at the ship’s flag, a chill went through him. The flag was black. With a skull and crossbones.",
+    "alt": "As he stared at the ship’s flag, a chill went through him. The flag was black. With a skull and crossbones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0075.webp",
+    "width": 371,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0076",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0105",
+    "source_paragraph_ids": [
+      "p0105"
+    ],
+    "description": "“Oh man,” he breathed. He started out of the water.",
+    "alt": "“Oh man,” he breathed. He started out of the water.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0076.webp",
+    "width": 375,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0077",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0106",
+    "source_paragraph_ids": [
+      "p0106"
+    ],
+    "description": "“What’s wrong?” said Annie. She splashed after him.",
+    "alt": "“What’s wrong?” said Annie. She splashed after him.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0077.webp",
+    "width": 376,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0078",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0107",
+    "source_paragraph_ids": [
+      "p0107"
+    ],
+    "description": "Jack ran to his backpack. Annie followed.",
+    "alt": "Jack ran to his backpack. Annie followed.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0078.webp",
+    "width": 370,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0079",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0108",
+    "source_paragraph_ids": [
+      "p0108"
+    ],
+    "description": "He grabbed the book from his backpack. He looked at the cover. For the first time, he and Annie read the title of the book.",
+    "alt": "He grabbed the book from his backpack. He looked at the cover. For the first time, he and Annie read the title of the book.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0079.webp",
+    "width": 371,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0080",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0109",
+    "source_paragraph_ids": [
+      "p0109"
+    ],
+    "description": "“Yikes!” said Annie.",
+    "alt": "“Yikes!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0080.webp",
+    "width": 375,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
