@@ -2824,5 +2824,251 @@
     "width": 377,
     "height": 252,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0177",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0235",
+    "source_paragraph_ids": [
+      "p0235"
+    ],
+    "description": "The rowboat tossed from side to side. The waves were huge. Salty spray stung Jack’s eyes. He felt seasick.",
+    "alt": "The rowboat tossed from side to side. The waves were huge. Salty spray stung Jack’s eyes. He felt seasick.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0177.webp",
+    "width": 379,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0178",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0236",
+    "source_paragraph_ids": [
+      "p0236"
+    ],
+    "description": "“Hold ’er steady!” shouted Cap’n Bones.",
+    "alt": "“Hold ’er steady!” shouted Cap’n Bones.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0178.webp",
+    "width": 371,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0179",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0237",
+    "source_paragraph_ids": [
+      "p0237"
+    ],
+    "description": "He pointed at the sea. “Or we’ll be meat for those evil brutes!”",
+    "alt": "He pointed at the sea. “Or we’ll be meat for those evil brutes!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0179.webp",
+    "width": 371,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0180",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0238",
+    "source_paragraph_ids": [
+      "p0238"
+    ],
+    "description": "Dark fins cut through the water. Sharks. One zoomed right by the boat. Jack could have reached out and touched it.",
+    "alt": "Dark fins cut through the water. Sharks. One zoomed right by the boat. Jack could have reached out and touched it.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0180.webp",
+    "width": 378,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0181",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0240",
+    "source_paragraph_ids": [
+      "p0239",
+      "p0240"
+    ],
+    "description": "He shuddered. Soon the rowboat pulled alongside the ship.",
+    "alt": "He shuddered. Soon the rowboat pulled alongside the ship.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0181.webp",
+    "width": 379,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0182",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0241",
+    "source_paragraph_ids": [
+      "p0241"
+    ],
+    "description": "The air was filled with wild fiddle music and bagpipes playing. And Jack heard jeers, shouts, and ugly laughter.",
+    "alt": "The air was filled with wild fiddle music and bagpipes playing. And Jack heard jeers, shouts, and ugly laughter.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0182.webp",
+    "width": 371,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0183",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0242",
+    "source_paragraph_ids": [
+      "p0242"
+    ],
+    "description": "“Hoist ’em aboard!” Cap’n Bones shouted to his men.",
+    "alt": "“Hoist ’em aboard!” Cap’n Bones shouted to his men.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0183.webp",
+    "width": 370,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0184",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0244",
+    "source_paragraph_ids": [
+      "p0243",
+      "p0244"
+    ],
+    "description": "Annie and Jack were hauled onto the deck. The ship creaked and moaned. It rolled from side to side. Ropes flapped and snapped in the wild wind.",
+    "alt": "Annie and Jack were hauled onto the deck. The ship creaked and moaned. It rolled from side to side. Ropes flapped and snapped in the wild wind.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0184.webp",
+    "width": 377,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0185",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0246",
+    "source_paragraph_ids": [
+      "p0245",
+      "p0246"
+    ],
+    "description": "Everywhere they looked, Jack and Annie saw pirates. Some were dancing. Some were drinking. Many were fighting. With swords. Or with their fists.",
+    "alt": "Everywhere they looked, Jack and Annie saw pirates. Some were dancing. Some were drinking. Many were fighting. With swords. Or with their fists.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0185.webp",
+    "width": 379,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0186",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0247",
+    "source_paragraph_ids": [
+      "p0247"
+    ],
+    "description": "“Lock ’em in my cabin!” Cap’n Bones ordered.",
+    "alt": "“Lock ’em in my cabin!” Cap’n Bones ordered.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0186.webp",
+    "width": 370,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0187",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0248",
+    "source_paragraph_ids": [
+      "p0248"
+    ],
+    "description": "A couple of pirates grabbed Jack and Annie. And threw them in the ship’s cabin. Then locked the door.",
+    "alt": "A couple of pirates grabbed Jack and Annie. And threw them in the ship’s cabin. Then locked the door.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0187.webp",
+    "width": 370,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0188",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0249",
+    "source_paragraph_ids": [
+      "p0249"
+    ],
+    "description": "The air inside the cabin was damp and sour-smelling. A shaft of gray light came through a small round window.",
+    "alt": "The air inside the cabin was damp and sour-smelling. A shaft of gray light came through a small round window.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0188.webp",
+    "width": 377,
+    "height": 241,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0189",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0250",
+    "source_paragraph_ids": [
+      "p0250"
+    ],
+    "description": "“Oh man,” said Jack. “We’ve got to figure out how to get back to the island.”",
+    "alt": "“Oh man,” said Jack. “We’ve got to figure out how to get back to the island.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0189.webp",
+    "width": 379,
+    "height": 254,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0190",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0252",
+    "source_paragraph_ids": [
+      "p0251",
+      "p0252"
+    ],
+    "description": "“So we can get into the tree house and go home,” said Annie. “Right.” Jack suddenly felt tired. How would they ever get out of this mess?",
+    "alt": "“So we can get into the tree house and go home,” said Annie. “Right.” Jack suddenly felt tired. How would they ever get out of this mess?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0190.webp",
+    "width": 370,
+    "height": 254,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0191",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0254",
+    "source_paragraph_ids": [
+      "p0253",
+      "p0254"
+    ],
+    "description": "“We better examine the book,” he said. He reached into his pack and pulled out the pirate book.",
+    "alt": "“We better examine the book,” he said. He reached into his pack and pulled out the pirate book.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0191.webp",
+    "width": 370,
+    "height": 254,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0192",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0256",
+    "source_paragraph_ids": [
+      "p0255",
+      "p0256"
+    ],
+    "description": "He flipped through the pages. He looked for information to help them.",
+    "alt": "He flipped through the pages. He looked for information to help them.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0192.webp",
+    "width": 377,
+    "height": 254,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
