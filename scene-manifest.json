@@ -5267,5 +5267,251 @@
     "width": 352,
     "height": 264,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0337",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0439",
+    "source_paragraph_ids": [
+      "p0438",
+      "p0439"
+    ],
+    "description": "“I think you dropped this in dinosaur times,” said Jack. He handed the gold medallion to Morgan.",
+    "alt": "“I think you dropped this in dinosaur times,” said Jack. He handed the gold medallion to Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0337.webp",
+    "width": 376,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0338",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0440",
+    "source_paragraph_ids": [
+      "p0440"
+    ],
+    "description": "“Oh, thank you! I wondered where I’d lost it,” she said. She put the medallion into a hidden pocket in her cape.",
+    "alt": "“Oh, thank you! I wondered where I’d lost it,” she said. She put the medallion into a hidden pocket in her cape.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0338.webp",
+    "width": 371,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0339",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0441",
+    "source_paragraph_ids": [
+      "p0441"
+    ],
+    "description": "“So can anybody work the spell?” asked Annie. “Anybody who tries it?”",
+    "alt": "“So can anybody work the spell?” asked Annie. “Anybody who tries it?”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0339.webp",
+    "width": 371,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0340",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0442",
+    "source_paragraph_ids": [
+      "p0442"
+    ],
+    "description": "“Oh dear, no! Not just anybody,” Morgan said. “You two are the only ones besides me to do it. No one else has ever even seen my tree house before.”",
+    "alt": "“Oh dear, no! Not just anybody,” Morgan said. “You two are the only ones besides me to do it. No one else has ever even seen my tree house before.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0340.webp",
+    "width": 374,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0341",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0443",
+    "source_paragraph_ids": [
+      "p0443"
+    ],
+    "description": "“Is it invisible?” asked Annie.",
+    "alt": "“Is it invisible?” asked Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0341.webp",
+    "width": 376,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0342",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0444",
+    "source_paragraph_ids": [
+      "p0444"
+    ],
+    "description": "“Yes,” said Morgan. “I had no idea it would ever be discovered. But then you two came along. Somehow you hooked right into my magic.”",
+    "alt": "“Yes,” said Morgan. “I had no idea it would ever be discovered. But then you two came along. Somehow you hooked right into my magic.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0342.webp",
+    "width": 371,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0343",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0445",
+    "source_paragraph_ids": [
+      "p0445"
+    ],
+    "description": "“H-how?” asked Jack.",
+    "alt": "“H-how?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0343.webp",
+    "width": 370,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0344",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0446",
+    "source_paragraph_ids": [
+      "p0446"
+    ],
+    "description": "“Well, for two reasons, I think,” explained Morgan. “First, Annie believes in magic. So she actually saw the tree house. And her belief helped you to see it, Jack.”",
+    "alt": "“Well, for two reasons, I think,” explained Morgan. “First, Annie believes in magic. So she actually saw the tree house. And her belief helped you to see it, Jack.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0344.webp",
+    "width": 374,
+    "height": 243,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0345",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0448",
+    "source_paragraph_ids": [
+      "p0447",
+      "p0448"
+    ],
+    "description": "“Oh man,” said Jack. “Then you picked up a book, Jack. And because you love books so much, you caused my magic spell to work.”",
+    "alt": "“Oh man,” said Jack. “Then you picked up a book, Jack. And because you love books so much, you caused my magic spell to work.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0345.webp",
+    "width": 377,
+    "height": 238,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0346",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0450",
+    "source_paragraph_ids": [
+      "p0449",
+      "p0450"
+    ],
+    "description": "“Wow,” said Annie. “You can’t imagine my dismay when you started to take off for dinosaur times. I had to make a very quick decision. And I decided to come along.”",
+    "alt": "“Wow,” said Annie. “You can’t imagine my dismay when you started to take off for dinosaur times. I had to make a very quick decision. And I decided to come along.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0346.webp",
+    "width": 371,
+    "height": 238,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0347",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0451",
+    "source_paragraph_ids": [
+      "p0451"
+    ],
+    "description": "“Oh, so you were the pteranodon!” said Annie.",
+    "alt": "“Oh, so you were the pteranodon!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0347.webp",
+    "width": 370,
+    "height": 238,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0348",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0453",
+    "source_paragraph_ids": [
+      "p0452",
+      "p0453"
+    ],
+    "description": "Morgan smiled. “And the cat and the knight and Polly!” said Annie.",
+    "alt": "Morgan smiled. “And the cat and the knight and Polly!” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0348.webp",
+    "width": 374,
+    "height": 238,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0349",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0455",
+    "source_paragraph_ids": [
+      "p0454",
+      "p0455"
+    ],
+    "description": "“Yes,” said Morgan softly. “You were all these things to help us?” asked Jack.",
+    "alt": "“Yes,” said Morgan softly. “You were all these things to help us?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0349.webp",
+    "width": 377,
+    "height": 255,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0350",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0456",
+    "source_paragraph_ids": [
+      "p0456"
+    ],
+    "description": "“Yes, but I must go home now. The people in Camelot need my help.”",
+    "alt": "“Yes, but I must go home now. The people in Camelot need my help.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0350.webp",
+    "width": 369,
+    "height": 255,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0351",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0457",
+    "source_paragraph_ids": [
+      "p0457"
+    ],
+    "description": "“You’re leaving?” whispered Jack.",
+    "alt": "“You’re leaving?” whispered Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0351.webp",
+    "width": 370,
+    "height": 255,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0352",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0459",
+    "source_paragraph_ids": [
+      "p0458",
+      "p0459"
+    ],
+    "description": "“I’m afraid I must,” said Morgan. She picked up Jack’s backpack and handed it to him. Jack and Annie picked up their raincoats. It had stopped raining.",
+    "alt": "“I’m afraid I must,” said Morgan. She picked up Jack’s backpack and handed it to him. Jack and Annie picked up their raincoats. It had stopped raining.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0352.webp",
+    "width": 374,
+    "height": 255,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
