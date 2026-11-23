@@ -4294,5 +4294,247 @@
     "width": 307,
     "height": 306,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0273",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0361",
+    "source_paragraph_ids": [
+      "p0361"
+    ],
+    "description": "Just then the storm broke over the island. The wind howled. Rain fell in buckets.",
+    "alt": "Just then the storm broke over the island. The wind howled. Rain fell in buckets.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0273.webp",
+    "width": 308,
+    "height": 301,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0274",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0362",
+    "source_paragraph_ids": [
+      "p0362"
+    ],
+    "description": "“Let’s go!” cried Annie.",
+    "alt": "“Let’s go!” cried Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0274.webp",
+    "width": 304,
+    "height": 301,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0275",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0363",
+    "source_paragraph_ids": [
+      "p0363"
+    ],
+    "description": "“Wait! I have to get the medallion!” shouted Jack. He ran to the hole dug by the pirates. He looked down in it.",
+    "alt": "“Wait! I have to get the medallion!” shouted Jack. He ran to the hole dug by the pirates. He looked down in it.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0275.webp",
+    "width": 303,
+    "height": 301,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0276",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0365",
+    "source_paragraph_ids": [
+      "p0364",
+      "p0365"
+    ],
+    "description": "Even in the dreary light, the medallion was shining. Big, fat raindrops were falling into the hole, washing away the sand.",
+    "alt": "Even in the dreary light, the medallion was shining. Big, fat raindrops were falling into the hole, washing away the sand.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0276.webp",
+    "width": 307,
+    "height": 301,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0277",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0367",
+    "source_paragraph_ids": [
+      "p0366",
+      "p0367"
+    ],
+    "description": "Jack saw a patch of wood. Then the rain cleared away more sand. And Jack saw the top of an old trunk.",
+    "alt": "Jack saw a patch of wood. Then the rain cleared away more sand. And Jack saw the top of an old trunk.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0277.webp",
+    "width": 308,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0278",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0368",
+    "source_paragraph_ids": [
+      "p0368"
+    ],
+    "description": "He stared. Was it Captain Kidd’s treasure chest?",
+    "alt": "He stared. Was it Captain Kidd’s treasure chest?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0278.webp",
+    "width": 304,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0279",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0369",
+    "source_paragraph_ids": [
+      "p0369"
+    ],
+    "description": "“Hurry, Jack!” cried Annie. She was halfway up the tree house ladder.",
+    "alt": "“Hurry, Jack!” cried Annie. She was halfway up the tree house ladder.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0279.webp",
+    "width": 303,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0280",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0370",
+    "source_paragraph_ids": [
+      "p0370"
+    ],
+    "description": "“I found it! I found it!” cried Jack. “I found the treasure chest!”",
+    "alt": "“I found it! I found it!” cried Jack. “I found the treasure chest!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0280.webp",
+    "width": 307,
+    "height": 300,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0281",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0371",
+    "source_paragraph_ids": [
+      "p0371"
+    ],
+    "description": "“Forget the treasure chest!” said Annie. “We have to go now! The storm’s getting worse!”",
+    "alt": "“Forget the treasure chest!” said Annie. “We have to go now! The storm’s getting worse!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0281.webp",
+    "width": 308,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0282",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0372",
+    "source_paragraph_ids": [
+      "p0372"
+    ],
+    "description": "Jack kept staring at the chest. Was there gold inside? Silver? Precious gems?",
+    "alt": "Jack kept staring at the chest. Was there gold inside? Silver? Precious gems?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0282.webp",
+    "width": 303,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0283",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0373",
+    "source_paragraph_ids": [
+      "p0373"
+    ],
+    "description": "“Come on!” Now Annie was shouting from the tree house window.",
+    "alt": "“Come on!” Now Annie was shouting from the tree house window.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0283.webp",
+    "width": 302,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0284",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0374",
+    "source_paragraph_ids": [
+      "p0374"
+    ],
+    "description": "But Jack couldn’t tear himself away. He brushed the rest of the muddy sand off the chest.",
+    "alt": "But Jack couldn’t tear himself away. He brushed the rest of the muddy sand off the chest.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0284.webp",
+    "width": 307,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0285",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0375",
+    "source_paragraph_ids": [
+      "p0375"
+    ],
+    "description": "“Jack, forget the treasure chest!” cried Annie. “Let’s go!”",
+    "alt": "“Jack, forget the treasure chest!” cried Annie. “Let’s go!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0285.webp",
+    "width": 308,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0286",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0376",
+    "source_paragraph_ids": [
+      "p0376"
+    ],
+    "description": "“Go back!” squawked Polly.",
+    "alt": "“Go back!” squawked Polly.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0286.webp",
+    "width": 303,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0287",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0377",
+    "source_paragraph_ids": [
+      "p0377"
+    ],
+    "description": "Jack looked at the parrot. She was perched on the black rock.",
+    "alt": "Jack looked at the parrot. She was perched on the black rock.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0287.webp",
+    "width": 302,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0288",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0378",
+    "source_paragraph_ids": [
+      "p0378"
+    ],
+    "description": "He stared into her wise eyes. He thought he knew her—knew her from somewhere else.",
+    "alt": "He stared into her wise eyes. He thought he knew her—knew her from somewhere else.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0288.webp",
+    "width": 307,
+    "height": 304,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
