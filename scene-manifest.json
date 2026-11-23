@@ -5025,5 +5025,247 @@
     "width": 375,
     "height": 268,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0321",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0421",
+    "source_paragraph_ids": [
+      "p0420",
+      "p0421"
+    ],
+    "description": "Jack nodded. “Well, I am King Arthur’s sister,” said Morgan.",
+    "alt": "Jack nodded. “Well, I am King Arthur’s sister,” said Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0321.webp",
+    "width": 353,
+    "height": 262,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0322",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0422",
+    "source_paragraph_ids": [
+      "p0422"
+    ],
+    "description": "“You’re from Camelot,” said Jack. “I’ve read about Camelot.”",
+    "alt": "“You’re from Camelot,” said Jack. “I’ve read about Camelot.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0322.webp",
+    "width": 347,
+    "height": 262,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0323",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0423",
+    "source_paragraph_ids": [
+      "p0423"
+    ],
+    "description": "“What did you read about me, Jack?” said Morgan.",
+    "alt": "“What did you read about me, Jack?” said Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0323.webp",
+    "width": 345,
+    "height": 262,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0324",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0425",
+    "source_paragraph_ids": [
+      "p0424",
+      "p0425"
+    ],
+    "description": "“You—you’re a witch.” Morgan smiled. “You can’t believe everything you read, Jack.”",
+    "alt": "“You—you’re a witch.” Morgan smiled. “You can’t believe everything you read, Jack.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0324.webp",
+    "width": 352,
+    "height": 262,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0325",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0426",
+    "source_paragraph_ids": [
+      "p0426"
+    ],
+    "description": "“But are you a magician?” said Annie.",
+    "alt": "“But are you a magician?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0325.webp",
+    "width": 352,
+    "height": 257,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0326",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0427",
+    "source_paragraph_ids": [
+      "p0427"
+    ],
+    "description": "“Most call me an enchantress. But I’m also a librarian,” said Morgan.",
+    "alt": "“Most call me an enchantress. But I’m also a librarian,” said Morgan.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0326.webp",
+    "width": 346,
+    "height": 257,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0327",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0428",
+    "source_paragraph_ids": [
+      "p0428"
+    ],
+    "description": "“A librarian?” said Annie.",
+    "alt": "“A librarian?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0327.webp",
+    "width": 345,
+    "height": 257,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0328",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0429",
+    "source_paragraph_ids": [
+      "p0429"
+    ],
+    "description": "“Yes. And I’ve come to the 20th century, your time, to collect books. You are lucky to be born in a time with so many books.”",
+    "alt": "“Yes. And I’ve come to the 20th century, your time, to collect books. You are lucky to be born in a time with so many books.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0328.webp",
+    "width": 352,
+    "height": 257,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0329",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0430",
+    "source_paragraph_ids": [
+      "p0430"
+    ],
+    "description": "“For the Camelot library?” asked Jack.",
+    "alt": "“For the Camelot library?” asked Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0329.webp",
+    "width": 352,
+    "height": 258,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0330",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0431",
+    "source_paragraph_ids": [
+      "p0431"
+    ],
+    "description": "“Precisely,” said Morgan. “I travel in this tree house to collect words from many different places around the world. And from many different time periods.”",
+    "alt": "“Precisely,” said Morgan. “I travel in this tree house to collect words from many different places around the world. And from many different time periods.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0330.webp",
+    "width": 346,
+    "height": 258,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0331",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0432",
+    "source_paragraph_ids": [
+      "p0432"
+    ],
+    "description": "“Did you find books here?” said Jack.",
+    "alt": "“Did you find books here?” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0331.webp",
+    "width": 345,
+    "height": 258,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0332",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0433",
+    "source_paragraph_ids": [
+      "p0433"
+    ],
+    "description": "“Oh yes. Many wonderful books. I want to borrow them for our scribes to copy.”",
+    "alt": "“Oh yes. Many wonderful books. I want to borrow them for our scribes to copy.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0332.webp",
+    "width": 352,
+    "height": 258,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0333",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0434",
+    "source_paragraph_ids": [
+      "p0434"
+    ],
+    "description": "“Did you put all the bookmarks in them?” said Jack.",
+    "alt": "“Did you put all the bookmarks in them?” said Jack.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0333.webp",
+    "width": 352,
+    "height": 264,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0334",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0435",
+    "source_paragraph_ids": [
+      "p0435"
+    ],
+    "description": "“Yes. You see, I like the pictures in the books. Sometimes I want to visit the scenes in the pictures. So all the bookmarks mark places I wish to go.”",
+    "alt": "“Yes. You see, I like the pictures in the books. Sometimes I want to visit the scenes in the pictures. So all the bookmarks mark places I wish to go.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0334.webp",
+    "width": 346,
+    "height": 264,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0335",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0436",
+    "source_paragraph_ids": [
+      "p0436"
+    ],
+    "description": "“How do you get there?” asked Annie.",
+    "alt": "“How do you get there?” asked Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0335.webp",
+    "width": 345,
+    "height": 264,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0336",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0437",
+    "source_paragraph_ids": [
+      "p0437"
+    ],
+    "description": "“I placed a spell on the tree house,” said Morgan. “So when I point to a picture and make the wish, the tree house takes me there.”",
+    "alt": "“I placed a spell on the tree house,” said Morgan. “So when I point to a picture and make the wish, the tree house takes me there.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0336.webp",
+    "width": 352,
+    "height": 264,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
