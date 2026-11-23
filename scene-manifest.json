@@ -3563,5 +3563,251 @@
     "width": 375,
     "height": 249,
     "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0225",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0303",
+    "source_paragraph_ids": [
+      "p0302",
+      "p0303"
+    ],
+    "description": "“And shovels,” said Annie. Cap’n Bones growled. Then he roared at his men, “Get some rope and shovels!”",
+    "alt": "“And shovels,” said Annie. Cap’n Bones growled. Then he roared at his men, “Get some rope and shovels!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0225.webp",
+    "width": 378,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0226",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0305",
+    "source_paragraph_ids": [
+      "p0304",
+      "p0305"
+    ],
+    "description": "“Aye, aye, Cap’n!” “Then throw these lubbers in the boat! We’re going back to the island!”",
+    "alt": "“Aye, aye, Cap’n!” “Then throw these lubbers in the boat! We’re going back to the island!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0226.webp",
+    "width": 370,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0227",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0307",
+    "source_paragraph_ids": [
+      "p0306",
+      "p0307"
+    ],
+    "description": "“Aye, aye, Cap’n!” Back in the rowboat, Jack saw the sky had grown even darker with clouds. The waves were bigger. The wind was howling.",
+    "alt": "“Aye, aye, Cap’n!” Back in the rowboat, Jack saw the sky had grown even darker with clouds. The waves were bigger. The wind was howling.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0227.webp",
+    "width": 369,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0228",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0308",
+    "source_paragraph_ids": [
+      "p0308"
+    ],
+    "description": "“Gale’s a-blowin’!” said Pinky.",
+    "alt": "“Gale’s a-blowin’!” said Pinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0228.webp",
+    "width": 376,
+    "height": 248,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0229",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0309",
+    "source_paragraph_ids": [
+      "p0309"
+    ],
+    "description": "“You’ll see a gale if I don’t get me gold today, by thunder!” Cap’n Bones shouted. “Row, dogs, row!”",
+    "alt": "“You’ll see a gale if I don’t get me gold today, by thunder!” Cap’n Bones shouted. “Row, dogs, row!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0229.webp",
+    "width": 378,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0230",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0310",
+    "source_paragraph_ids": [
+      "p0310"
+    ],
+    "description": "The three pirates battled the waves, until the rowboat reached the island. They all piled onto the shore.",
+    "alt": "The three pirates battled the waves, until the rowboat reached the island. They all piled onto the shore.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0230.webp",
+    "width": 370,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0231",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0312",
+    "source_paragraph_ids": [
+      "p0311",
+      "p0312"
+    ],
+    "description": "Cap’n Bones grabbed Jack and Annie. “Okay, lubbers,” he said. “Now show us where the treasure is.”",
+    "alt": "Cap’n Bones grabbed Jack and Annie. “Okay, lubbers,” he said. “Now show us where the treasure is.”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0231.webp",
+    "width": 369,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0232",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0313",
+    "source_paragraph_ids": [
+      "p0313"
+    ],
+    "description": "“There,” said Annie. She pointed at the black rock near the tip of the island.",
+    "alt": "“There,” said Annie. She pointed at the black rock near the tip of the island.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0232.webp",
+    "width": 376,
+    "height": 242,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0233",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0315",
+    "source_paragraph_ids": [
+      "p0314",
+      "p0315"
+    ],
+    "description": "“Under that rock,” said Jack. Cap’n Bones dragged Jack and Annie down the beach to the black rock.",
+    "alt": "“Under that rock,” said Jack. Cap’n Bones dragged Jack and Annie down the beach to the black rock.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0233.webp",
+    "width": 378,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0234",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0316",
+    "source_paragraph_ids": [
+      "p0316"
+    ],
+    "description": "“Get to work!” Cap’n Bones said to Pinky and Stinky.",
+    "alt": "“Get to work!” Cap’n Bones said to Pinky and Stinky.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0234.webp",
+    "width": 371,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0235",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0317",
+    "source_paragraph_ids": [
+      "p0317"
+    ],
+    "description": "“What about you?” said Annie.",
+    "alt": "“What about you?” said Annie.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0235.webp",
+    "width": 369,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0236",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0318",
+    "source_paragraph_ids": [
+      "p0318"
+    ],
+    "description": "“Me? Work?” Cap’n Bones chuckled.",
+    "alt": "“Me? Work?” Cap’n Bones chuckled.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0236.webp",
+    "width": 376,
+    "height": 244,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0237",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0319",
+    "source_paragraph_ids": [
+      "p0319"
+    ],
+    "description": "Jack gulped. How could they get away from him?",
+    "alt": "Jack gulped. How could they get away from him?",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0237.webp",
+    "width": 379,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0238",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0320",
+    "source_paragraph_ids": [
+      "p0320"
+    ],
+    "description": "“Don’t you think you should help your friends?” he said.",
+    "alt": "“Don’t you think you should help your friends?” he said.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0238.webp",
+    "width": 370,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0239",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0321",
+    "source_paragraph_ids": [
+      "p0321"
+    ],
+    "description": "Cap’n Bones gave Jack a horrible grin. “Nay. I’m going to hold you two—till there’s treasure in me hands!”",
+    "alt": "Cap’n Bones gave Jack a horrible grin. “Nay. I’m going to hold you two—till there’s treasure in me hands!”",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0239.webp",
+    "width": 338,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
+  },
+  {
+    "id": "scene-0240",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0323",
+    "source_paragraph_ids": [
+      "p0322",
+      "p0323"
+    ],
+    "description": "Pinky and Stinky tied their rope around the big rock. The wind howled. The two pirates pulled. And pulled. And pulled.",
+    "alt": "Pinky and Stinky tied their rope around the big rock. The wind howled. The two pirates pulled. And pulled. And pulled.",
+    "status": "integrated",
+    "web_asset_path": "assets/scene-0240.webp",
+    "width": 408,
+    "height": 249,
+    "review_note": "Inspected story continuity and detected gutter crop overlay."
   }
 ]
